@@ -1,0 +1,352 @@
+{
+    "version": "0.4",
+    "title": "Events Banner &#8211; Left Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "b3a7ab5",
+            "settings": {
+                "structure": "20",
+                "_title": "Events",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1f3f6891",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_title": "About"
+                    },
+                    "elements": [
+                        {
+                            "id": "37364d8e",
+                            "settings": {
+                                "title": "Find Your Course",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "05",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align": "left",
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5cb43b8",
+                            "settings": {
+                                "editor": "ullam fringilla ipsum sed enim scelerisque, ac porttitor libero egestas. Donec iaculis nisi eget bibendum efficitur. Lorem ipsum dolor si",
+                                "typography_typography": "custom",
+                                "align": "left",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "13bab988",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/phone.png",
+                                    "id": 128
+                                },
+                                "image_size": "thumbnail",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_element_vertical_align": "center",
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6edcdfb6",
+                            "settings": {
+                                "title": "Call: <b>+2 342 5446 67<\/b>",
+                                "header_size": "h4",
+                                "title_color": "#155799",
+                                "_element_width": "auto",
+                                "_element_vertical_align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "138624ae",
+                            "settings": {
+                                "structure": "20",
+                                "background_background": "slideshow",
+                                "_title": "Elements",
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "40",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "1d274138",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_title": "Photo1"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "98dbdd5",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/group-of-swimmers-at-sport-training.jpg",
+                                                    "id": 170
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "-10",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 3,
+                                                "motion_fx_motion_fx_scrolling": "yes",
+                                                "motion_fx_translateY_effect": "yes",
+                                                "motion_fx_translateY_speed": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "motion_fx_devices": [
+                                                    "desktop"
+                                                ],
+                                                "align_mobile": "left",
+                                                "image_custom_dimension": {
+                                                    "width": "273",
+                                                    "height": "390"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "604edf5e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_title": "Photo2"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3562af86",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/school.jpg",
+                                                    "id": 176
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "150",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "-50",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 3,
+                                                "motion_fx_motion_fx_scrolling": "yes",
+                                                "motion_fx_translateY_effect": "yes",
+                                                "motion_fx_translateY_speed": {
+                                                    "unit": "px",
+                                                    "size": 0.5,
+                                                    "sizes": []
+                                                },
+                                                "motion_fx_devices": [
+                                                    "desktop"
+                                                ],
+                                                "align_mobile": "left",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "image_custom_dimension": {
+                                                    "width": "175",
+                                                    "height": "307"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "12dd2815",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/elements.png",
+                                    "id": 173
+                                },
+                                "image_size": "medium_large",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -75,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 251,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "18db6365",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "_title": "Events"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

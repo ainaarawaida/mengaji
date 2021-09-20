@@ -1,0 +1,4055 @@
+# Translation of Plugins - Elementor Website Builder - Stable (latest release) in Malay
+# This file is distributed under the same license as the Plugins - Elementor Website Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-08 11:59:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ms\n"
+"Project-Id-Version: Plugins - Elementor Website Builder - Stable (latest release)\n"
+
+#: includes/controls/groups/background.php:671
+msgid "Duration"
+msgstr "Durasi"
+
+#: includes/widgets/divider.php:318 modules/shapes/module.php:23
+msgid "Line"
+msgstr "Garisan"
+
+#: includes/widgets/image-gallery.php:44
+msgid "Basic Gallery"
+msgstr "Galeri Asas"
+
+#: includes/widgets/divider.php:288
+msgctxt "shapes"
+msgid "X"
+msgstr "X"
+
+#: includes/widgets/divider.php:645
+msgid "Amount"
+msgstr "Jumlah"
+
+#: includes/widgets/divider.php:474
+msgid "Add Element"
+msgstr "Tambah Elemen"
+
+#: includes/frontend.php:1231 includes/widgets/image-carousel.php:789
+#: assets/js/app-packages.js:11808 assets/js/app-packages.js:12514
+#: assets/js/app.js:11046 assets/js/app.js:11752
+msgid "Next"
+msgstr "Seterusnya"
+
+#: core/document-types/post.php:27
+msgid "Post"
+msgstr "Kiriman"
+
+#: includes/frontend.php:1230 includes/widgets/image-carousel.php:785
+#: assets/js/app-packages.js:11883 assets/js/app-packages.js:12508
+#: assets/js/app.js:11121 assets/js/app.js:11746
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: includes/controls/groups/background.php:769
+msgid "Out"
+msgstr "Keluar"
+
+#: includes/controls/groups/background.php:768
+msgid "In"
+msgstr "Masuk"
+
+#: includes/settings/tools.php:325 includes/settings/tools.php:327
+msgid "Reinstall"
+msgstr "Pasang semula"
+
+#: core/debug/classes/htaccess.php:29
+msgid "File Path: %s"
+msgstr "Laluan Fail: %s"
+
+#: includes/controls/media.php:245 assets/js/editor.js:8551
+msgid "Upload"
+msgstr "Muat Naik"
+
+#: core/editor/editor.php:205
+msgid "Document not found."
+msgstr "Dokumen tidak dijumpai."
+
+#: includes/controls/media.php:173
+msgid "Choose Video"
+msgstr "Pilih Video"
+
+#: includes/managers/icons.php:177
+msgid "All Icons"
+msgstr "Semua Ikon"
+
+#: includes/managers/icons.php:112
+msgid "Font Awesome - Brands"
+msgstr "Font Awesome - Jenama"
+
+#: includes/managers/icons.php:100
+msgid "Font Awesome - Solid"
+msgstr "Font Awesome - Solid"
+
+#: includes/managers/icons.php:88
+msgid "Font Awesome - Regular"
+msgstr "Font Awesome - Biasa"
+
+#: includes/admin-templates/beta-tester.php:36 assets/js/beta-tester.js:2582
+msgid "Sign Up"
+msgstr "Daftar"
+
+#: includes/admin-templates/beta-tester.php:31
+msgid "Your Email"
+msgstr "Emel anda"
+
+#: includes/admin-templates/beta-tester.php:28
+msgid "Get Beta Updates"
+msgstr "Dapatkan Kemas Kini Beta"
+
+#: includes/base/widget-base.php:966
+msgid "Deprecated"
+msgstr "Digugurkan"
+
+#: includes/template-library/sources/local.php:537
+msgid "Template not exist."
+msgstr "Templat tidak wujud."
+
+#: includes/controls/icons.php:89 includes/controls/icons.php:115
+#: includes/controls/icons.php:117
+msgid "Upload SVG"
+msgstr "Muat naik SVG"
+
+#: includes/controls/icons.php:88 includes/controls/icons.php:122
+#: includes/controls/icons.php:126 assets/js/editor.js:9290
+msgid "Icon Library"
+msgstr "Pustaka Ikon"
+
+#: includes/managers/icons.php:391
+msgid "Hurray! The upgrade process to Font Awesome 5 was completed successfully."
+msgstr "Hurray! Proses peningkatan ke Font Awesome 5 telah berjaya diselesaikan."
+
+#: includes/managers/icons.php:375
+msgid "Upgrade To Font Awesome 5"
+msgstr "Naik Taraf Ke Font Awesome 5"
+
+#: includes/managers/icons.php:350 includes/managers/icons.php:354
+#: includes/managers/icons.php:369
+msgid "Font Awesome Upgrade"
+msgstr "Naik Taraf Font Awesome"
+
+#: core/kits/views/panel.php:12 includes/editor-templates/panel.php:27
+#: includes/editor-templates/panel.php:159
+msgid "Need Help"
+msgstr "Perlukan Bantuan"
+
+#: includes/elements/section.php:477
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: includes/elements/section.php:472
+msgid "Overflow"
+msgstr "Limpahan"
+
+#: includes/settings/settings.php:197
+msgid "Get Help"
+msgstr "Dapatkan Bantuan"
+
+#: core/experiments/manager.php:252 includes/widgets/common.php:758
+msgid "Please note!"
+msgstr "Sila ambil perhatian!"
+
+#: includes/settings/controls.php:237
+msgid "Super Admin"
+msgstr "Pentadbir Super"
+
+#: includes/elements/column.php:190
+msgid "Horizontal Align"
+msgstr "Jajar Melintang"
+
+#: includes/elements/column.php:172 includes/elements/column.php:200
+#: includes/elements/section.php:454
+msgid "Space Evenly"
+msgstr "Ruang Sekalipun"
+
+#: includes/elements/column.php:171 includes/elements/column.php:199
+#: includes/elements/section.php:453
+msgid "Space Around"
+msgstr "Ruang Sekitar"
+
+#: modules/safe-mode/module.php:289
+msgid "Still experiencing issues?"
+msgstr "Masih mengalami masalah?"
+
+#: modules/safe-mode/module.php:285
+msgid "Editor successfully loaded?"
+msgstr "Penyunting berjaya dimuatkan?"
+
+#: includes/controls/media.php:179 includes/widgets/video.php:201
+msgid "Choose File"
+msgstr "Pilih Fail"
+
+#: includes/template-library/sources/local.php:1327
+msgctxt "Template Library"
+msgid "Filter by category"
+msgstr "Tapis mengikut kategori"
+
+#: includes/template-library/sources/local.php:300
+msgctxt "Template Library"
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: includes/settings/settings.php:342
+msgid "Get Popup Builder"
+msgstr "Dapatkan Pembina Timbul"
+
+#: includes/settings/settings.php:171
+#: includes/template-library/sources/local.php:1616
+#: assets/js/app-packages.js:13286 assets/js/app.js:12524
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:1892
+msgid "Popups"
+msgstr "Timbul"
+
+#: core/app/app.php:39 core/app/app.php:40
+#: core/app/modules/site-editor/module.php:31
+#: core/common/modules/finder/categories/general.php:68
+#: includes/template-library/sources/local.php:1615
+#: assets/js/app-packages.js:14953 assets/js/editor.js:35992
+msgid "Theme Builder"
+msgstr "Pembina Tema"
+
+#: includes/template-library/sources/local.php:299
+msgctxt "Template Library"
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/template-library/sources/local.php:298
+msgctxt "Template Library"
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/template-library/sources/local.php:230
+msgctxt "Template Library"
+msgid "Templates"
+msgstr "Templat"
+
+#: includes/widgets/google-maps.php:130
+msgid "Location"
+msgstr "Lokasi"
+
+#: includes/widgets/image-gallery.php:159
+msgid "Order By"
+msgstr "Atur Oleh"
+
+#: includes/widgets/read-more.php:102
+msgid "Read More Text"
+msgstr "Baca Lagi Teks"
+
+#. translators: %s: Name of current post
+#: includes/frontend.php:1372
+msgid "Continue reading %s"
+msgstr "Teruskan membaca %s"
+
+#: includes/frontend.php:1365
+msgid "(more&hellip;)"
+msgstr "(more&hellip;)"
+
+#: core/base/background-process/wp-background-process.php:437
+msgid "Every %d Minutes"
+msgstr "Setiap %d Minit"
+
+#: includes/controls/groups/background.php:360
+msgctxt "Background Control"
+msgid "Y Position"
+msgstr "Kedudukan Y"
+
+#: includes/controls/groups/background.php:294
+msgctxt "Background Control"
+msgid "X Position"
+msgstr "Kedudukan X"
+
+#: includes/controls/groups/background.php:281
+#: includes/controls/groups/background.php:486
+msgctxt "Background Control"
+msgid "Custom"
+msgstr "Suai Langgan"
+
+#: includes/widgets/read-more.php:88
+msgid "Continue reading"
+msgstr "Terus membaca"
+
+#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:84
+msgid "Read More"
+msgstr "Baca Lebih Lanjut"
+
+#: includes/widgets/video.php:190
+msgid "External URL"
+msgstr "URL Luaran"
+
+#: modules/safe-mode/module.php:356
+msgid "Enable Safe Mode"
+msgstr "Dayakan Mod Selamat"
+
+#: modules/safe-mode/module.php:354 modules/safe-mode/module.php:366
+msgid "Can't Edit?"
+msgstr "Tidak Boleh Sunting?"
+
+#: modules/safe-mode/module.php:278 modules/safe-mode/module.php:475
+msgid "Disable Safe Mode"
+msgstr "Lumpuhkan Mod Selamat"
+
+#: modules/safe-mode/module.php:276
+msgid "Safe Mode ON"
+msgstr "Mod Selamat HIDUP"
+
+#: modules/safe-mode/module.php:94
+msgid "Cannot enable Safe Mode"
+msgstr "Tidak dapat mengaktifkan Mod Selamat"
+
+#: modules/safe-mode/module.php:41
+msgid "Safe Mode"
+msgstr "Mod Selamat"
+
+#: modules/library/documents/not-supported.php:59
+msgid "Not Supported"
+msgstr "Tidak Disokong"
+
+#: core/common/modules/finder/categories/site.php:78
+msgid "Users"
+msgstr "Pengguna"
+
+#: core/common/modules/finder/categories/site.php:72
+msgid "Plugins"
+msgstr "Pemalam"
+
+#: includes/widgets/video.php:440
+msgid "Any Video"
+msgstr "Mana-mana Video"
+
+#: includes/widgets/video.php:439
+msgid "Current Video Channel"
+msgstr "Saluran Video Semasa"
+
+#: includes/widgets/star-rating.php:95
+msgid "Rating Scale"
+msgstr "Skala Penilaian"
+
+#: core/common/modules/connect/apps/base-app.php:78
+msgid "Disconnect"
+msgstr "Putus"
+
+#: core/common/modules/connect/apps/base-app.php:214
+msgid "Disconnected Successfully."
+msgstr "Berjaya Diputuskan."
+
+#: core/common/modules/connect/apps/base-app.php:202
+msgid "Connected Successfully."
+msgstr "Berjaya Disambungkan."
+
+#: core/common/modules/connect/admin.php:24
+#: core/common/modules/connect/admin.php:25
+#: core/common/modules/connect/apps/connect.php:11
+msgid "Connect"
+msgstr "Sambung"
+
+#: includes/widgets/image.php:164 includes/widgets/image.php:173
+msgid "Custom Caption"
+msgstr "Sari Kata Tersuai"
+
+#: includes/widgets/image.php:163
+msgid "Attachment Caption"
+msgstr "Sari Kata Lampiran"
+
+#: core/base/document.php:1518
+msgid "Future"
+msgstr "Masa depan"
+
+#: includes/editor-templates/hotkeys.php:151
+msgid "Quit"
+msgstr "Berhenti"
+
+#: includes/editor-templates/hotkeys.php:143 assets/js/editor.js:7704
+msgid "Keyboard Shortcuts"
+msgstr "Pintasan Papan Kekunci"
+
+#: includes/editor-templates/hotkeys.php:100
+msgid "Show / Hide Panel"
+msgstr "Tunjuk / Sembunyikan Panel"
+
+#: includes/editor-templates/hotkeys.php:88
+msgid "Go To"
+msgstr "Pergi Ke"
+
+#: includes/editor-templates/hotkeys.php:26
+msgid "Redo"
+msgstr "Buat semula"
+
+#: includes/editor-templates/hotkeys.php:18
+msgid "Undo"
+msgstr "Kembali ke asal"
+
+#: core/common/modules/finder/template.php:13
+msgid "Type to find anything in Elementor"
+msgstr "Tulis untuk cari apa sahaja di dalam Elementor"
+
+#: includes/editor-templates/hotkeys.php:92 assets/js/admin-top-bar.js:3309
+#: assets/js/common.js:14707 assets/js/editor.js:25200
+msgid "Finder"
+msgstr "Pencari"
+
+#: core/common/modules/finder/categories/site.php:66
+msgid "Customizer"
+msgstr "Penyesuai"
+
+#: core/common/modules/finder/categories/site.php:54
+msgid "Menus"
+msgstr "Menu"
+
+#: core/common/modules/finder/categories/site.php:48
+#: assets/js/admin-top-bar.js:3536
+msgid "Dashboard"
+msgstr "Papan Pemuka"
+
+#: core/common/modules/finder/categories/site.php:42
+msgid "Homepage"
+msgstr "Laman hadapan"
+
+#: core/common/modules/finder/categories/create.php:28
+#: assets/js/editor.js:34225
+msgid "Create"
+msgstr "Cipta"
+
+#: includes/widgets/star-rating.php:321
+msgid "Unmarked Color"
+msgstr "Warna Tidak Ditandakan"
+
+#: includes/widgets/star-rating.php:266
+msgid "Stars"
+msgstr "Bintang"
+
+#: includes/widgets/star-rating.php:147
+msgid "Outline"
+msgstr "Garisan luar"
+
+#: includes/widgets/star-rating.php:139
+msgid "Unmarked Style"
+msgstr "Gaya Tidak Ditandakan"
+
+#: includes/widgets/star-rating.php:88 includes/widgets/star-rating.php:108
+msgid "Rating"
+msgstr "Penilaian"
+
+#: includes/widgets/star-rating.php:45
+msgid "Star Rating"
+msgstr "Penilaian Bintang"
+
+#: includes/widgets/video.php:519
+msgid "Poster"
+msgstr "Pengirim"
+
+#: core/admin/admin-notices.php:272
+msgid "Hide Notification"
+msgstr "Sembunyikan Pemberitahuan"
+
+#: core/admin/admin-notices.php:266
+msgid "Happy To Help"
+msgstr "Gembira Untuk Membantu"
+
+#: core/admin/admin-notices.php:261
+msgid "Congrats!"
+msgstr "Tahniah!"
+
+#: includes/widgets/video.php:135 includes/widgets/video.php:157
+#: includes/widgets/video.php:178 includes/widgets/video.php:234
+msgid "Enter your URL"
+msgstr "Masukkan URL Anda"
+
+#: includes/settings/settings.php:240
+msgid "Create Your First Page"
+msgstr "Cipta Halaman Pertama Anda"
+
+#: includes/settings/settings.php:188 includes/settings/settings.php:256
+msgid "Getting Started"
+msgstr "Bermula"
+
+#: includes/editor-templates/navigator.php:51
+msgid "Easy Navigation is Here!"
+msgstr "Navigasi Mudah di Sini!"
+
+#: includes/editor-templates/navigator.php:46
+msgid "Empty"
+msgstr "Kosong"
+
+#: includes/editor-templates/library-layout.php:13
+#: includes/settings/settings.php:259 includes/settings/settings.php:260
+msgid "Skip"
+msgstr "Langkau"
+
+#: includes/widgets/video.php:402
+msgid "Lazy Load"
+msgstr "Muatkan Malasan"
+
+#: includes/widgets/accordion.php:126 includes/widgets/accordion.php:130
+#: includes/widgets/icon-box.php:160 includes/widgets/image-box.php:137
+#: includes/widgets/tabs.php:129 includes/widgets/tabs.php:133
+#: includes/widgets/testimonial.php:101 includes/widgets/text-editor.php:114
+#: includes/widgets/toggle.php:130 includes/widgets/toggle.php:134
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: includes/settings/settings.php:265
+msgid "Welcome to Elementor"
+msgstr "Selamat datang ke Elementor"
+
+#: includes/settings/settings.php:243
+msgid "Create Your First Post"
+msgstr "Cipta Kiriman Pertama Anda"
+
+#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1227
+#: includes/widgets/google-maps.php:147
+msgid "Zoom"
+msgstr "Zum"
+
+#: core/document-types/page-base.php:41
+msgid "Single"
+msgstr "Tunggal"
+
+#: includes/widgets/video.php:374
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/widgets/video.php:347
+msgid "Video Info"
+msgstr "Info Video"
+
+#: includes/managers/elements.php:287
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: core/app/modules/site-editor/module.php:32
+#: core/common/modules/finder/categories/site.php:26 core/kits/manager.php:368
+#: includes/managers/elements.php:283
+msgid "Site"
+msgstr "Laman"
+
+#: includes/controls/groups/css-filter.php:62
+msgctxt "Filter Control"
+msgid "Blur"
+msgstr "Kabur"
+
+#: includes/controls/groups/background.php:588 includes/widgets/video.php:257
+msgid "Specify an end time (in seconds)"
+msgstr "Tentukan masa tamat (dalam saat)"
+
+#: includes/controls/groups/background.php:586 includes/widgets/video.php:255
+msgid "End Time"
+msgstr "Masa Akhir"
+
+#: includes/controls/groups/background.php:576 includes/widgets/video.php:247
+msgid "Specify a start time (in seconds)"
+msgstr "Tentukan masa mula (dalam saat)"
+
+#: includes/controls/groups/background.php:574 includes/widgets/video.php:245
+msgid "Start Time"
+msgstr "Masa Mula"
+
+#: includes/managers/elements.php:276
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/elements/column.php:385 includes/elements/section.php:697
+#: includes/widgets/heading.php:258
+msgid "Blend Mode"
+msgstr "Mod Campuran"
+
+#: includes/editor-templates/hotkeys.php:35 assets/js/editor-document.js:17765
+#: assets/js/editor.js:18740
+msgid "Copy"
+msgstr "Salin"
+
+#: includes/widgets/video.php:220
+msgid "URL"
+msgstr "URL"
+
+#: includes/widgets/video.php:117
+msgid "Self Hosted"
+msgstr "Dihoskan Sendiri"
+
+#: includes/widgets/video.php:116
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: includes/widgets/video.php:110
+msgid "Source"
+msgstr "Sumber"
+
+#: includes/widgets/button.php:256
+msgid "Button ID"
+msgstr "ID Butang"
+
+#: includes/widgets/audio.php:185
+msgid "Artwork"
+msgstr "Karya seni"
+
+#: core/admin/admin.php:151 assets/js/admin.js:5727 assets/js/gutenberg.js:900
+msgid "Back to WordPress Editor"
+msgstr "Kembali ke Penyunting WordPress"
+
+#. translators: %s: Document title
+#: core/documents-manager.php:358
+msgid "Elementor %s"
+msgstr "Elementor %s"
+
+#. translators: %s the title of the post type
+#. translators: %s: Template type label.
+#: core/common/modules/finder/categories/create.php:62
+#: includes/template-library/sources/local.php:1300
+msgid "Add New %s"
+msgstr "Tambah Baharu %s"
+
+#. translators: %d: Number of rows
+#: includes/utils.php:165
+msgid "%d row affected."
+msgid_plural "%d rows affected."
+msgstr[0] "%d baris terkesan"
+
+#: modules/page-templates/module.php:157
+msgctxt "Page Template"
+msgid "Elementor Canvas"
+msgstr "Kanvas Elementor"
+
+#: modules/page-templates/module.php:158
+msgctxt "Page Template"
+msgid "Elementor Full Width"
+msgstr "Elementor Paparan Penuh"
+
+#: core/kits/documents/tabs/theme-style-images.php:95
+#: core/kits/documents/tabs/theme-style-images.php:166
+#: includes/elements/column.php:354 includes/elements/column.php:425
+#: includes/elements/section.php:651 includes/elements/section.php:752
+#: includes/widgets/image-box.php:312 includes/widgets/image-box.php:366
+#: includes/widgets/image.php:393 includes/widgets/image.php:427
+msgid "Opacity"
+msgstr "Aras kabur"
+
+#: core/app/modules/kit-library/data/kits/controller.php:24
+#: core/app/modules/kit-library/data/kits/controller.php:43
+#: core/app/modules/kit-library/data/kits/endpoints/download-link.php:45
+#: core/app/modules/kit-library/data/kits/endpoints/favorites.php:66
+#: core/app/modules/kit-library/data/kits/endpoints/favorites.php:88
+#: core/app/modules/kit-library/data/taxonomies/controller.php:39
+#: core/base/module.php:130 core/base/module.php:143 includes/plugin.php:493
+#: includes/plugin.php:506
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:940
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:3605
+msgid "Something went wrong."
+msgstr "Sesuatu yang tidak betul terjadi."
+
+#: includes/widgets/image.php:290
+msgid "Max Width"
+msgstr "Lebar Maksimum"
+
+#: includes/widgets/common.php:541 includes/widgets/common.php:771
+#: includes/widgets/divider.php:736 includes/widgets/divider.php:876
+#: includes/widgets/image-carousel.php:397
+#: includes/widgets/image-carousel.php:460 includes/widgets/tabs.php:152
+msgid "Position"
+msgstr "Posisi"
+
+#: includes/admin-templates/new-template.php:41
+msgid "Templates Help You <span>Work Efficiently</span>"
+msgstr "Templat Membantu Anda <span>Bekerja Lebih Efisien</span>"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: core/admin/admin.php:335
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Teruja %1$s? Sila tinggalkan %2$s rating anda kepada kami. Kami sangat menghargai sokongan anda!"
+
+#: core/common/modules/finder/categories/general.php:63
+msgid "Knowledge Base"
+msgstr "Pangkalan Ilmu"
+
+#: modules/history/views/revisions-panel-template.php:63
+msgid "Current"
+msgstr "Semasa"
+
+#: modules/page-templates/module.php:292
+msgid "Page Layout"
+msgstr "Susun Atur Halaman"
+
+#: modules/page-templates/module.php:323
+msgid "No header, no footer, just Elementor"
+msgstr "Tiada pengepala, tiada pengaki, hanya Elementor"
+
+#: modules/page-templates/module.php:335
+msgid "This template includes the header, full-width content and footer"
+msgstr "Templat ini mengandungi pengepala, kandungan paparan penuh dan pengaki"
+
+#: modules/page-templates/module.php:311
+msgid "Default Page Template from your theme"
+msgstr "Halaman Templat Lalai dari tema anda"
+
+#: includes/template-library/sources/local.php:1165
+msgid "All"
+msgstr "Semua"
+
+#: includes/template-library/sources/local.php:218
+msgctxt "Template Library"
+msgid "My Templates"
+msgstr "Templat Saya"
+
+#: includes/widgets/counter.php:181
+msgid "Separator"
+msgstr "Pemisah"
+
+#: includes/frontend.php:1229 includes/widgets/video.php:943
+msgid "Play Video"
+msgstr "Mainkan Video"
+
+#: includes/widgets/common.php:676 includes/widgets/icon-list.php:104
+#: includes/widgets/icon-list.php:196
+msgid "Inline"
+msgstr "Dalam barisan"
+
+#: includes/admin-templates/new-template.php:83
+msgid "Name your template"
+msgstr "Nama templat anda"
+
+#: includes/admin-templates/new-template.php:58
+msgid "Select the type of template you want to work on"
+msgstr "Pilih jenis templat yang ingin anda kerjakan"
+
+#: includes/admin-templates/new-template.php:56
+msgid "Choose Template Type"
+msgstr "Pilih Jenis Templat"
+
+#: includes/editor-templates/templates.php:178
+msgid "More actions"
+msgstr "Lebih aksi"
+
+#: core/document-types/page.php:41 modules/library/documents/page.php:60
+#: assets/js/editor.js:10196
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:1882
+msgid "Pages"
+msgstr "Halaman"
+
+#. translators: %s: Document title
+#: core/base/document.php:982 core/settings/page/model.php:126
+#: includes/editor-templates/panel.php:67
+msgid "%s Settings"
+msgstr "Tetapan %s"
+
+#: core/role-manager/role-manager.php:125
+msgid "Role Excluded"
+msgstr "Peranan Dikecualikan"
+
+#: includes/template-library/sources/local.php:1260
+msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
+msgstr "Tambah templat dan gunakan semula di seluruh laman web anda. Mudah mengeksport dan mengimport mereka ke mana-mana projek lain, untuk aliran kerja yang optimum."
+
+#: core/dynamic-tags/tag.php:109 includes/settings/settings.php:559
+msgid "Fallback"
+msgstr "Sandaran"
+
+#: core/document-types/page-base.php:175
+msgid "Featured Image"
+msgstr "Imej Terencana"
+
+#: core/document-types/page-base.php:109
+msgid "Body Style"
+msgstr "Gaya Badan"
+
+#: includes/controls/groups/border.php:68
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "Alur"
+
+#: core/base/document.php:163
+msgid "Document"
+msgstr "Dokumen"
+
+#: core/common/modules/ajax/module.php:130
+msgid "Token Expired."
+msgstr "Token Tamat Tempoh."
+
+#: core/common/modules/ajax/module.php:161
+msgid "Action not found."
+msgstr "Tindakan tidak dijumpai."
+
+#: modules/landing-pages/module.php:250 assets/js/app-packages.js:9966
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/editor-templates/global.php:48
+msgid "This tag has no settings."
+msgstr "Teg ini tiada tetapan."
+
+#: includes/settings/settings.php:146 includes/settings/settings.php:147
+msgid "Custom Fonts"
+msgstr "Fon Tersuai"
+
+#: includes/admin-templates/new-template.php:89
+msgid "Create Template"
+msgstr "Cipta Templat"
+
+#: includes/settings/settings.php:300
+msgid "Add Your Custom Fonts"
+msgstr "Tambah Fon Ubahsuai Anda"
+
+#: includes/admin-templates/new-template.php:86
+msgid "Enter template name (optional)"
+msgstr "Masukkan nama templat (pilihan)"
+
+#: includes/editor-templates/templates.php:100
+msgid "Search Templates:"
+msgstr "Carian Templat:"
+
+#: core/role-manager/role-manager.php:132
+msgid "No access to editor"
+msgstr "Tiada akses untuk penyunting"
+
+#: core/role-manager/role-manager.php:167
+msgid "Want to give access only to content?"
+msgstr "Berikan akses untuk kandungan sahaja?"
+
+#: includes/template-library/manager.php:546
+msgid "Post not found."
+msgstr "Post tidak dijumpai"
+
+#. translators: %s: Template type label.
+#: includes/template-library/sources/local.php:1293
+msgid "Create Your First %s"
+msgstr "Cipta %s Kali Pertama"
+
+#: includes/admin-templates/new-template.php:42
+msgid "Use templates to create the different pieces of your site, and reuse them with one click whenever needed."
+msgstr "Gunakan templat untuk mencipta lampiran yang berbeza pada Laman sesawang anda, dan bila perlu gunakannya kembali hanya dengan satu klik"
+
+#: core/role-manager/role-manager.php:89
+msgid "Manage What Your Users Can Edit In Elementor"
+msgstr "Urus apa yang Pengguna boleh Sunting dalam Elementor"
+
+#: core/common/modules/finder/categories/general.php:57
+#: core/role-manager/role-manager.php:31
+msgid "Role Manager"
+msgstr "Pengurus Peranan"
+
+#: includes/widgets/image-carousel.php:133
+msgid "Set how many slides are scrolled per swipe."
+msgstr "Tetapkan berapa banyak lungsuran untuk tatalan bagi setiap sapuan."
+
+#: core/admin/admin.php:386
+msgid "Create New Post"
+msgstr "Cipta Kiriman Baharu"
+
+#: includes/controls/groups/background.php:446
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr "Nota: Lampiran Tetap berkesan hanya pada desktop"
+
+#: includes/fonts.php:69
+msgid "Google Early Access"
+msgstr "Google Akses Awal"
+
+#: modules/history/revisions-manager.php:157
+msgid "Current Version"
+msgstr "Versi Semasa"
+
+#: includes/widgets/video.php:391
+msgid "When you turn on privacy mode, YouTube won't store information about visitors on your website unless they play the video."
+msgstr "Apabila anda menghidupkan mod privasi, YouTube tidak akan menyimpan maklumat tentang pelawat di laman web anda melainkan mereka memainkan video."
+
+#: includes/widgets/video.php:389
+msgid "Privacy Mode"
+msgstr "Mod Privasi"
+
+#: includes/widgets/shortcode.php:106
+msgid "Enter your shortcode"
+msgstr "Masukkan kod ringkas anda"
+
+#: includes/widgets/image.php:176
+msgid "Enter your image caption"
+msgstr "Masukkan sari kata imej anda"
+
+#: includes/widgets/html.php:95
+msgid "Enter your code"
+msgstr "Masukkan kod anda"
+
+#: includes/widgets/heading.php:117
+msgid "Add Your Heading Text Here"
+msgstr "Tambah Teks Tajuk Anda Di Sini"
+
+#: includes/widgets/alert.php:127 includes/widgets/icon-box.php:161
+#: includes/widgets/image-box.php:138
+msgid "Enter your description"
+msgstr "Masukkan keterangan anda"
+
+#: includes/widgets/alert.php:114
+msgid "This is an Alert"
+msgstr "Ini adalah Amaran"
+
+#. translators: 1: Editing date, 2: Author display name
+#: core/base/document.php:1231
+msgid "Last edited on %1$s by %2$s"
+msgstr "Suntingan terakhir pada %1$s oleh %2$s"
+
+#. translators: 1: Saving date, 2: Author display name
+#: core/base/document.php:1228
+msgid "Draft saved on %1$s by %2$s"
+msgstr "Draf disimpan pada %1$s oleh %2$s"
+
+#: core/base/document.php:1223
+msgctxt "revision date format"
+msgid "M j, H:i"
+msgstr "M j, H:i"
+
+#: core/admin/admin-notices.php:517 assets/js/app-packages.js:12728
+#: assets/js/app.js:11966
+msgid "Dismiss"
+msgstr "Singkir"
+
+#: core/kits/documents/kit.php:144
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: core/common/modules/finder/template.php:19 assets/js/editor.js:11320
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:1573
+msgid "No Results Found"
+msgstr "Tiada Keputusan Dijumpai"
+
+#: includes/editor-templates/templates.php:244 assets/js/app-packages.js:7465
+#: assets/js/app.js:7406
+msgid "Select File"
+msgstr "Pilih Fail"
+
+#: includes/editor-templates/templates.php:243
+msgid "or"
+msgstr "atau"
+
+#: includes/editor-templates/templates.php:242
+msgid "Drag & drop your .JSON or .zip template file"
+msgstr "Seret & lepas fail templat .JSON atau .zip anda"
+
+#: includes/editor-templates/templates.php:241
+msgid "Import Template to Your Library"
+msgstr "Import Templat ke Perpustakaan Anda"
+
+#: includes/editor-templates/templates.php:232
+#: includes/editor-templates/templates.php:248
+#: includes/editor-templates/templates.php:261 includes/widgets/button.php:141
+#: includes/widgets/button.php:142
+msgid "Click here"
+msgstr "Klik sini"
+
+#: includes/editor-templates/templates.php:231
+#: includes/editor-templates/templates.php:247
+#: includes/editor-templates/templates.php:260
+msgid "Want to learn more about the Elementor library?"
+msgstr "Mahu mengetahui lebih lanjut mengenai perpustakaan Elementor?"
+
+#: includes/editor-templates/templates.php:156
+msgid "Favorite"
+msgstr "Kegemaran"
+
+#: includes/editor-templates/templates.php:101
+msgid "Search"
+msgstr "Cari"
+
+#: includes/editor-templates/templates.php:92
+msgid "My Favorites"
+msgstr "Kegemaran Saya"
+
+#: includes/editor-templates/templates.php:70
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:3588
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/editor-templates/templates.php:68
+msgid "Trend"
+msgstr "Trend"
+
+#: includes/editor-templates/templates.php:66
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:3585
+msgid "New"
+msgstr "Baharu"
+
+#: includes/editor-templates/templates.php:10
+#: includes/editor-templates/templates.php:11
+msgid "Import Template"
+msgstr "Import Templat"
+
+#: core/kits/views/panel.php:38 includes/controls/icons.php:82
+#: includes/controls/media.php:199 includes/controls/media.php:242
+#: includes/editor-templates/repeater.php:27
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:773
+msgid "Remove"
+msgstr "Buang"
+
+#: includes/editor-templates/hotkeys.php:67
+#: includes/editor-templates/repeater.php:21 assets/js/editor-document.js:17753
+#: assets/js/editor.js:18728 assets/js/editor.js:38532
+msgid "Duplicate"
+msgstr "Duplikasi"
+
+#: includes/editor-templates/repeater.php:14
+msgid "Drag & Drop"
+msgstr "Seret & Lepas"
+
+#: includes/editor-templates/panel.php:129
+#: includes/editor-templates/panel.php:130
+msgid "Hide Panel"
+msgstr "Sembunyikan Panel"
+
+#: includes/editor-templates/panel.php:119 assets/js/editor-document.js:19117
+#: assets/js/editor.js:20717
+msgid "Save as Template"
+msgstr "Simpan sebagai Templat"
+
+#: includes/editor-templates/panel.php:115
+msgid "Save Draft"
+msgstr "Simpan Draf"
+
+#: includes/editor-templates/panel.php:100
+#: includes/editor-templates/panel.php:102
+msgid "Save Options"
+msgstr "Simpan Pilihan"
+
+#: includes/editor-templates/panel.php:83
+#: includes/editor-templates/panel.php:86
+msgid "Preview Changes"
+msgstr "Pratonton Perubahan"
+
+#: includes/editor-templates/panel-elements.php:33
+msgid "Search Widget:"
+msgstr "Cari Widget"
+
+#: includes/controls/groups/typography.php:172
+msgctxt "Typography Control"
+msgid "Decoration"
+msgstr "Hiasan"
+
+#: core/admin/admin.php:470
+msgid "Blog"
+msgstr "Blog"
+
+#: core/admin/admin.php:421
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr "M jS"
+
+#: core/admin/admin.php:414
+msgid "Recently Edited"
+msgstr "Baru Disunting"
+
+#: core/admin/admin.php:383
+msgid "Create New Page"
+msgstr "Cipta Halaman Baharu"
+
+#: core/admin/admin.php:355
+msgid "Elementor Overview"
+msgstr "Gambaran keseluruhan Elementor"
+
+#: core/document-types/page-base.php:164
+msgid "Excerpt"
+msgstr "Petikan"
+
+#: includes/widgets/accordion.php:177 includes/widgets/toggle.php:181
+msgid "Active Icon"
+msgstr "Ikon Aktif"
+
+#: includes/controls/groups/typography.php:179
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "Garis Melalui"
+
+#: includes/editor-templates/templates.php:121
+msgid "Creation Date"
+msgstr "Tarikh Ciptaan"
+
+#: includes/controls/groups/typography.php:178
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "Garis Atas"
+
+#: includes/editor-templates/templates.php:117
+msgid "Created By"
+msgstr "Dicipta Oleh"
+
+#: includes/editor-templates/panel.php:95 assets/js/editor.js:16768
+msgid "Publish"
+msgstr "Terbit"
+
+#: includes/controls/popover-toggle.php:72
+#: includes/controls/popover-toggle.php:74
+msgid "Back to default"
+msgstr "Kembali kepada lalai"
+
+#: core/admin/admin-notices.php:129
+msgid "Update Elementor Now"
+msgstr "Kemaskini Elementor Sekarang"
+
+#: core/admin/admin.php:432
+msgid "News & Updates"
+msgstr "Berita & Kemaskini"
+
+#: core/admin/admin.php:451
+msgid "(opens in a new window)"
+msgstr "(buka pada tetingkap baharu)"
+
+#. translators: %s: the document title.
+#: core/base/document.php:146
+msgid "Hurray! Your %s is live."
+msgstr "Hore! %s anda tersiar langsung."
+
+#: includes/widgets/alert.php:330 includes/widgets/alert.php:362
+msgid "Dismiss alert"
+msgstr "Ketepikan amaran"
+
+#: includes/controls/groups/typography.php:177
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "Bergaris"
+
+#: includes/controls/dimensions.php:128
+msgid "Unlinked values"
+msgstr "Nilai-nilai tidak dipautkan"
+
+#: includes/template-library/sources/local.php:452
+#: includes/template-library/sources/local.php:531
+#: includes/template-library/sources/local.php:673
+#: modules/history/revisions-manager.php:264
+msgid "Access denied."
+msgstr "Akses dinafikan."
+
+#: includes/settings/settings.php:459
+msgid "Disable Default Fonts"
+msgstr "Abaikan Fon Lalai"
+
+#: includes/elements/column.php:197 includes/widgets/accordion.php:378
+#: includes/widgets/common.php:741 includes/widgets/image-carousel.php:533
+#: includes/widgets/tabs.php:179 includes/widgets/tabs.php:209
+#: includes/widgets/toggle.php:406
+msgid "End"
+msgstr "Akhir"
+
+#: includes/elements/column.php:195 includes/widgets/accordion.php:374
+#: includes/widgets/common.php:733 includes/widgets/image-carousel.php:525
+#: includes/widgets/tabs.php:171 includes/widgets/tabs.php:201
+#: includes/widgets/toggle.php:402
+msgid "Start"
+msgstr "Mula"
+
+#: core/debug/loading-inspection-manager.php:36
+msgid "We're sorry, but something went wrong. Click on 'Learn more' and follow each of the steps to quickly solve it."
+msgstr "Kami minta maaf, tapi ada yang salah. Klik pada 'Ketahui lebih lanjut' dan ikuti setiap langkah untuk menyelesaikannya dengan cepat."
+
+#: core/debug/classes/inspection-base.php:25
+#: core/debug/loading-inspection-manager.php:37
+msgid "The preview could not be loaded"
+msgstr "Pratonton tidak boleh dimuatkan"
+
+#: core/admin/admin-notices.php:133 core/admin/admin-notices.php:168
+msgid "Update Notification"
+msgstr "Kemaskini Pemberitahuan"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: modules/history/views/history-panel-template.php:22
+msgid "No History Yet"
+msgstr "Tiada Sejarah Lagi"
+
+#: modules/history/views/history-panel-template.php:17
+msgid "Switch to Revisions tab for older versions"
+msgstr "Beralih ke tab Semakan untuk versi yang lebih lama"
+
+#: modules/history/views/history-panel-template.php:10
+#: modules/history/views/revisions-panel-template.php:26
+#: assets/js/editor.js:38206
+msgid "Revisions"
+msgstr "Semakan"
+
+#: includes/editor-templates/hotkeys.php:14
+#: includes/editor-templates/templates.php:124
+#: modules/history/views/history-panel-template.php:9 assets/js/editor.js:38203
+msgid "Actions"
+msgstr "Tindakan"
+
+#: includes/editor-templates/hotkeys.php:117
+#: includes/editor-templates/panel.php:73
+#: includes/editor-templates/panel.php:75 assets/js/editor.js:38911
+msgid "History"
+msgstr "Sejarah"
+
+#: core/kits/documents/tabs/settings-lightbox.php:152
+#: includes/widgets/video.php:761
+msgid "UI Hover Color"
+msgstr "Warna Apungan UI"
+
+#: core/kits/documents/tabs/settings-lightbox.php:141
+#: includes/widgets/video.php:750
+msgid "UI Color"
+msgstr "Warna UI"
+
+#: includes/widgets/video.php:711
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "Bayangan"
+
+#: includes/widgets/video.php:311
+msgid "Mute"
+msgstr "Bisu"
+
+#: includes/template-library/sources/local.php:899
+msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
+msgstr "Pilih fail JSON templat Elementor atau arkib .zip templat Elementor, dan tambahkannya ke senarai templat yang terdapat di pustaka anda."
+
+#: includes/controls/groups/text-shadow.php:61
+#: includes/controls/groups/text-shadow.php:85
+msgctxt "Text Shadow Control"
+msgid "Text Shadow"
+msgstr "Bayangan Teks"
+
+#: includes/settings/tools.php:346
+msgid "Beta Tester"
+msgstr "Penguji Beta"
+
+#: core/common/modules/finder/categories/tools.php:58
+#: includes/settings/tools.php:305
+msgid "Version Control"
+msgstr "Kawalan Versi"
+
+#: includes/elements/column.php:825 includes/elements/section.php:1289
+#: includes/widgets/common.php:235
+msgid "Animation Delay"
+msgstr "Kelewatan Animasi"
+
+#: includes/elements/column.php:726 includes/elements/section.php:1210
+#: includes/widgets/common.php:156
+msgid "Z-Index"
+msgstr "Z-Index"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:139
+#: core/kits/documents/tabs/theme-style-images.php:203
+#: includes/controls/groups/background.php:699 includes/elements/column.php:300
+#: includes/elements/column.php:456 includes/elements/column.php:563
+#: includes/elements/section.php:600 includes/elements/section.php:783
+#: includes/elements/section.php:889 includes/widgets/common.php:295
+#: includes/widgets/common.php:402 includes/widgets/google-maps.php:238
+#: includes/widgets/image-box.php:330 includes/widgets/image.php:453
+#: modules/shapes/widgets/text-path.php:433
+#: modules/shapes/widgets/text-path.php:607
+msgid "Transition Duration"
+msgstr "Tempoh Peralihan"
+
+#: core/kits/documents/tabs/settings-layout.php:83
+#: includes/elements/column.php:213
+msgid "Widgets Space"
+msgstr "Ruang Widget"
+
+#: includes/controls/url.php:113
+msgid "Add nofollow"
+msgstr "Tambah nofollow"
+
+#: includes/controls/url.php:102
+msgid "Link Options"
+msgstr "Tetapan Pautan"
+
+#: includes/controls/groups/box-shadow.php:69
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "Kedudukan"
+
+#: includes/settings/tools.php:335
+msgid "Become a Beta Tester"
+msgstr "Jadi seorang Penguji Beta"
+
+#: includes/settings/tools.php:321
+msgid "Rollback Version"
+msgstr "Versi Gulung Balik"
+
+#: includes/settings/settings.php:491
+msgid "Integrations"
+msgstr "Penyepaduan"
+
+#. translators: %s: Elementor version
+#: includes/settings/tools.php:312
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Mengalami masalah dengan versi Elementor %s? Gulung semula ke versi terdahulu sebelum isu itu muncul."
+
+#: includes/rollback.php:165 includes/settings/tools.php:152
+#: includes/settings/tools.php:308 assets/js/admin.js:5899
+msgid "Rollback to Previous Version"
+msgstr "Kembali ke Versi Sebelumnya"
+
+#: includes/controls/url.php:109
+msgid "Open in new window"
+msgstr "Buka ke tetingkap baharu"
+
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Garisluar"
+
+#: core/kits/documents/tabs/settings-layout.php:95
+msgid "Sets the default space between widgets (Default: 20)"
+msgstr "Tetapkan ruang lalai antara widgets (Lalai: 20)"
+
+#. translators: %s: WordPress version
+#: elementor.php:97
+msgid "Elementor requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Elementor memerlukan versi WordPress %s+. Kerana anda menggunakan versi terdahulu, pemalam tersebut TIDAK BERJALAN pada masa ini."
+
+#: includes/settings/settings.php:528
+msgid "Switch Editor Loader Method"
+msgstr "Tukar Kaedah Pemuat Peyunting"
+
+#: includes/settings/settings.php:521
+msgid "External File"
+msgstr "Fail Luaran"
+
+#: includes/settings/settings.php:516
+msgid "CSS Print Method"
+msgstr "Kaedah Cetak CSS"
+
+#: includes/settings/settings.php:535
+msgid "For troubleshooting server configuration conflicts."
+msgstr "Untuk menyelesaikan masalah percanggahan konfigurasi pelayan."
+
+#: core/debug/inspector.php:55 includes/settings/settings.php:533
+#: includes/settings/settings.php:545 includes/settings/tools.php:352
+#: modules/safe-mode/module.php:47 assets/js/editor.js:26982
+msgid "Enable"
+msgstr "Dayakan"
+
+#: core/base/document.php:1524
+msgid "Status"
+msgstr "Status"
+
+#: core/debug/inspector.php:54 includes/settings/settings.php:532
+#: includes/settings/settings.php:544 includes/settings/tools.php:351
+#: modules/safe-mode/module.php:46
+msgid "Disable"
+msgstr "Lumpuh"
+
+#: includes/widgets/common.php:646 includes/widgets/spacer.php:108
+#: includes/widgets/text-editor.php:338
+msgid "Space"
+msgstr "Ruang"
+
+#: core/kits/documents/tabs/settings-layout.php:109
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "Elementor membolehkan anda menyembunyikan tajuk halaman. Ini berfungsi untuk tema yang mempunyai pemilih \"h1.entry-title\". Jika pemilih tema anda berbeza, sila masukkannya di atas."
+
+#: core/kits/documents/tabs/settings-layout.php:105
+msgid "Page Title Selector"
+msgstr "Pemilih Tajuk Halaman"
+
+#: includes/admin-templates/new-template.php:61
+#: includes/settings/controls.php:156
+msgid "Select"
+msgstr "Pilih"
+
+#: core/common/modules/finder/categories/edit.php:113
+#: assets/js/editor-document.js:6629 assets/js/editor-document.js:8365
+msgid "Template"
+msgstr "Templat"
+
+#: core/document-types/page-base.php:87
+msgid "Hide Title"
+msgstr "Sembunyi Tajuk"
+
+#: includes/maintenance-mode.php:270
+msgid "Maintenance Mode ON"
+msgstr "Hidupkan Mod Penyelenggaraan "
+
+#: includes/maintenance-mode.php:239
+msgid "Choose Template"
+msgstr "Pilih Templat"
+
+#: includes/maintenance-mode.php:357
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "Untuk mendayakan mod penyelenggaraan anda perlu menetapkan templat untuk halaman mod penyelenggaraan."
+
+#: includes/maintenance-mode.php:279 includes/maintenance-mode.php:356
+#: assets/js/app-packages.js:12375 assets/js/app.js:11613
+msgid "Edit Template"
+msgstr "Sunting Templat"
+
+#: includes/maintenance-mode.php:231
+msgid "Roles"
+msgstr "Peranan"
+
+#: includes/maintenance-mode.php:225
+msgid "Logged In"
+msgstr "Log Masuk"
+
+#: includes/maintenance-mode.php:219
+msgid "Who Can Access"
+msgstr "Siapa Boleh Capai"
+
+#: includes/maintenance-mode.php:211
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "Mod Penyelenggaraan mengembalikan kod HTTP 503, jadi enjin carian tahu akan kembali beberapa ketika kemudian. Ia tidak disyorkan untuk menggunakan mod ini lebih daripada beberapa hari."
+
+#: includes/maintenance-mode.php:208
+msgid "Choose between Coming Soon mode (returning HTTP 200 code) or Maintenance Mode (returning HTTP 503 code)."
+msgstr "Pilih antara mod Akan Datang (mengembalikan kod HTTP 200) atau Mod Penyelenggaraan (mengembalikan kod HTTP 503)."
+
+#: includes/maintenance-mode.php:214
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "Akan Datang mengembalikan kod HTTP 200, yang bermaksud laman web ini siap untuk diindeks."
+
+#: includes/maintenance-mode.php:205
+msgid "Maintenance"
+msgstr "Penyelenggaraan"
+
+#: includes/maintenance-mode.php:204
+msgid "Coming Soon"
+msgstr "Akan Datang"
+
+#: core/kits/documents/kit.php:143 includes/maintenance-mode.php:203
+#: assets/js/editor.js:38531
+msgid "Disabled"
+msgstr "Dilumpuhkan"
+
+#: includes/maintenance-mode.php:199
+msgid "Choose Mode"
+msgstr "Pilih Mod"
+
+#: core/common/modules/finder/categories/tools.php:64
+#: includes/maintenance-mode.php:190 includes/maintenance-mode.php:194
+msgid "Maintenance Mode"
+msgstr "Mod Penyelenggaraan"
+
+#: includes/maintenance-mode.php:195
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "Tetapkan seluruh laman sesawang anda dalam MODE SELENGGARA, bermaksud laman ini ditutup sementara untuk penyelenggaraan, atau tetapkan ia sebagai AKAN DATANG, bermaksud laman ini ditutup sehinggalah ianya siap sedia untuk dilancarkan."
+
+#: includes/widgets/text-editor.php:120 includes/widgets/text-editor.php:252
+msgid "Drop Cap"
+msgstr "Drop Cap"
+
+#: includes/maintenance-mode.php:358
+msgid "Select one or go ahead and <a target=\"_blank\" href=\"%s\">create one</a> now."
+msgstr "Pilih satu atau teruskan dan <a target=\"_blank\" href=\"%s\">cipta satu</a> sekarang."
+
+#: includes/elements/section.php:1064
+msgid "Bring to Front"
+msgstr "Bawa ke Hadapan"
+
+#: core/kits/documents/tabs/settings-lightbox.php:18
+#: includes/widgets/image-carousel.php:203
+#: includes/widgets/image-gallery.php:142 includes/widgets/image.php:219
+#: includes/widgets/video.php:605 includes/widgets/video.php:726
+msgid "Lightbox"
+msgstr "Kotak cahaya"
+
+#: includes/elements/column.php:170 includes/elements/column.php:198
+#: includes/elements/section.php:452 includes/widgets/icon-list.php:217
+#: includes/widgets/toggle.php:279
+msgid "Space Between"
+msgstr "Ruang Antara"
+
+#: includes/widgets/icon-list.php:209
+msgid "List"
+msgstr "Senarai"
+
+#: includes/shapes.php:209
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Buku"
+
+#: includes/shapes.php:205
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Pisah"
+
+#: includes/shapes.php:201
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Anak Panah"
+
+#: includes/shapes.php:197
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Corak Gelombang"
+
+#: includes/shapes.php:193
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Berus Gelombang"
+
+#: includes/shapes.php:188
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Gelombang"
+
+#: includes/shapes.php:179
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Lengkung"
+
+#: includes/shapes.php:167
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Kecondongan"
+
+#: includes/shapes.php:158
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Segi Tiga"
+
+#: includes/shapes.php:153
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Piramid"
+
+#: includes/shapes.php:150
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: includes/shapes.php:144
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Awan"
+
+#: includes/shapes.php:134
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Gunung"
+
+#: includes/elements/section.php:1051
+msgid "Invert"
+msgstr "Terbalik"
+
+#: includes/elements/section.php:1037
+msgid "Flip"
+msgstr "Selak"
+
+#: includes/shapes.php:183
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Lengkung Tidak Simetri"
+
+#: includes/shapes.php:162
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Asimetrikal Tigasegi"
+
+#: includes/shapes.php:172
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Kecondongan Gelap"
+
+#: includes/widgets/tabs.php:237
+msgid "Navigation Width"
+msgstr "Lebar Navigasi"
+
+#: includes/elements/column.php:744 includes/elements/section.php:1228
+#: includes/widgets/button.php:262 includes/widgets/common.php:175
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Tambah id tersuai anda TANPA kunci tanda pagar. contoh: my-id"
+
+#: includes/elements/column.php:738 includes/elements/section.php:1222
+#: includes/widgets/common.php:169
+msgid "CSS ID"
+msgstr "ID CSS"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:167
+#: core/kits/documents/tabs/theme-style-images.php:134
+#: core/kits/documents/tabs/theme-style-typography.php:156
+#: includes/elements/column.php:285 includes/elements/column.php:410
+#: includes/elements/column.php:528 includes/elements/section.php:585
+#: includes/elements/section.php:737 includes/elements/section.php:854
+#: includes/widgets/button.php:345 includes/widgets/common.php:280
+#: includes/widgets/common.php:367 includes/widgets/google-maps.php:223
+#: includes/widgets/icon-box.php:302 includes/widgets/icon-list.php:412
+#: includes/widgets/icon-list.php:496 includes/widgets/icon.php:248
+#: includes/widgets/image-box.php:351 includes/widgets/image.php:420
+#: modules/shapes/widgets/text-path.php:406
+#: modules/shapes/widgets/text-path.php:546
+msgid "Hover"
+msgstr "Apung"
+
+#: includes/controls/groups/background.php:201
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "Sudut"
+
+#: includes/controls/groups/background.php:190
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "Radial"
+
+#: includes/controls/groups/background.php:189
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "Linear"
+
+#: includes/controls/groups/background.php:186
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Jenis"
+
+#: includes/controls/groups/background.php:160
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "Warna Sekunder"
+
+#: includes/controls/groups/background.php:145
+#: includes/controls/groups/background.php:171
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Lokasi"
+
+#: includes/controls/groups/background.php:98
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr "Gradien"
+
+#: core/admin/admin.php:304
+msgid "Docs & FAQs"
+msgstr "Dokumen & Soalan-soalan Lazim"
+
+#: includes/settings/settings.php:455
+msgid "Checking this box will disable Elementor's Default Colors, and make Elementor inherit the colors from your theme."
+msgstr "Menanda kotak ini akan melumpuhkan Warna Lalai Elementor, dan membuat Elementor mewarisi warna dari tema anda."
+
+#: core/admin/admin.php:305
+msgid "View Elementor Video Tutorials"
+msgstr "Paparkan Tutorial Video Elementor"
+
+#: core/admin/admin.php:304
+msgid "View Elementor Documentation"
+msgstr "Paparkan Dokumentasi Elementor"
+
+#: core/admin/admin.php:305
+msgid "Video Tutorials"
+msgstr "Video Tutorial"
+
+#: includes/utils.php:137
+msgid "The `from` and `to` URL's must be different"
+msgstr "URL `dari` dan `ke` mestilah berbeza"
+
+#: core/common/modules/finder/categories/tools.php:52
+#: includes/settings/tools.php:277 includes/settings/tools.php:288
+#: includes/settings/tools.php:296
+msgid "Replace URL"
+msgstr "Ganti URL"
+
+#. translators: 1: Human readable time difference, 2: Date
+#: modules/history/revisions-manager.php:179
+msgid "%1$s ago (%2$s)"
+msgstr "%1$s yang lepas (%2$s)"
+
+#: modules/history/revisions-manager.php:151
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "M j @ H:i"
+
+#: modules/history/revisions-manager.php:160
+msgid "Autosave"
+msgstr "Simpanan Automatik"
+
+#: modules/history/revisions-manager.php:163
+msgid "Revision"
+msgstr "Semakan"
+
+#: modules/history/views/revisions-panel-template.php:36
+msgid "It looks like the post revision feature is unavailable in your website."
+msgstr "Ia kelihatan seperti ciri semakan kiriman tidak tersedia di laman web anda."
+
+#: modules/history/views/revisions-panel-template.php:34
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "Sejarah semakan membolehkan anda menyimpan versi kerja anda sebelum ini, dan memulihkannya pada bila-bila masa."
+
+#: modules/history/views/revisions-panel-template.php:56
+msgid "By"
+msgstr "Oleh"
+
+#: includes/settings/tools.php:293
+msgid "Update Site Address (URL)"
+msgstr "Kemaskini Alamat Laman (URL)"
+
+#: modules/history/views/revisions-panel-template.php:40
+msgid "No Revisions Saved Yet"
+msgstr "Masih tiada Revision disimpan"
+
+#: modules/history/views/revisions-panel-template.php:37
+msgid "Learn more about <a target=\"_blank\" href=\"%s\">WordPress revisions</a>"
+msgstr "Ketahui lebih lanjut <a target=\"_blank\" href=\"%s\">Semakan WordPress</a>"
+
+#. translators: 1: Minimum recommended_memory, 2: Codex URL
+#: modules/system-info/reporters/wordpress.php:89
+msgctxt "System Info"
+msgid "We recommend setting memory to at least %1$s. For more information, read about <a href=\"%2$s\">how to Increase memory allocated to PHP</a>."
+msgstr "Kami cadangkan tetapan memori sekurang-kuranya %1$s. Untuk maklumat lanjut, baca mengenai <a href=\"%2$s\">bagaimana untuk Menaikkan memori diperuntukkan untuk PHP</a>"
+
+#: includes/widgets/counter.php:170
+msgid "Thousand Separator"
+msgstr "Pemisah Ribu"
+
+#: includes/controls/groups/background.php:271
+#: includes/controls/groups/background.php:430
+#: includes/controls/groups/background.php:461
+#: includes/controls/groups/background.php:482
+msgctxt "Background Control"
+msgid "Default"
+msgstr "Lalai"
+
+#: core/kits/documents/tabs/settings-custom-css.php:17
+#: includes/managers/controls.php:890
+msgid "Custom CSS"
+msgstr "CSS Tersuai"
+
+#: core/admin/admin.php:279 core/admin/admin.php:481
+#: core/editor/notice-bar.php:24 core/role-manager/role-manager.php:168
+#: includes/editor-templates/panel-elements.php:23
+#: includes/editor-templates/panel-elements.php:57
+#: includes/managers/controls.php:930 includes/settings/settings.php:165
+#: includes/settings/settings.php:302 includes/settings/settings.php:323
+#: includes/settings/settings.php:344 includes/settings/settings.php:363
+#: assets/js/app-packages.js:7377 assets/js/app-packages.js:14572
+#: assets/js/app-packages.js:14872 assets/js/app-packages.js:14907
+#: assets/js/app.js:7318 assets/js/editor.js:8754
+msgid "Go Pro"
+msgstr "Pergi Pro"
+
+#: includes/editor-templates/panel-elements.php:22
+msgid "Get more with Elementor Pro"
+msgstr "Dapatkan lebih banyak lagi dengan Elementor Pro"
+
+#: includes/editor-templates/panel-elements.php:11
+#: assets/js/editor-document.js:9618 assets/js/editor.js:24403
+msgid "Global"
+msgstr "Global"
+
+#: includes/widgets/common.php:437 includes/widgets/icon-list.php:263
+#: includes/widgets/text-editor.php:122 includes/widgets/video.php:608
+#: modules/shapes/widgets/text-path.php:198
+msgid "Off"
+msgstr "Matikan"
+
+#: includes/widgets/common.php:436 includes/widgets/icon-list.php:264
+#: includes/widgets/text-editor.php:123 includes/widgets/video.php:609
+#: modules/shapes/widgets/text-path.php:197
+msgid "On"
+msgstr "Hidupkan"
+
+#: includes/editor-templates/panel-elements.php:56
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "Dengan ciri ini, anda boleh menyimpan widget sebagai global, kemudian menambahnya ke beberapa kawasan. Semua kawasan akan dapat disunting dari satu tempat."
+
+#: includes/managers/controls.php:908
+msgid "Meet Our Custom CSS"
+msgstr "Temui CSS Tersuai Kami"
+
+#: includes/managers/controls.php:896
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "CSS tersuai membolehkan anda menambah kod CSS ke mana-mana widget, dan melihatnya dipaparkan secara langsung dalam penyunting."
+
+#: includes/editor-templates/panel-elements.php:55
+msgid "Meet Our Global Widget"
+msgstr "Perkenalkan Widget Global Kami"
+
+#: includes/widgets/button.php:96
+msgid "Extra Large"
+msgstr "Lebih Besar"
+
+#: includes/widgets/button.php:92
+msgid "Extra Small"
+msgstr "Lebih Kecil"
+
+#: includes/base/widget-base.php:280 includes/base/widget-base.php:289
+msgid "Skin"
+msgstr "Kulit"
+
+#: includes/settings/settings.php:469
+msgid "Improve Elementor"
+msgstr "Tambahbaik Elementor"
+
+#: includes/editor-templates/panel.php:149
+msgid "Update changes to page"
+msgstr "Kemas kini perubahan ke halaman"
+
+#: includes/editor-templates/panel.php:168
+msgid "%s are disabled"
+msgstr "%s telah dilumpuhkan"
+
+#: core/admin/admin-notices.php:228
+msgid "No thanks"
+msgstr "Tidak terima kasih"
+
+#: includes/elements/section.php:488
+msgid "Stretch Section"
+msgstr "Regangkan Bahagian"
+
+#: core/admin/admin-notices.php:217 includes/elements/section.php:494
+#: includes/settings/settings-page.php:366
+msgid "Learn more."
+msgstr "Ketahui lebih lanjut."
+
+#: core/breakpoints/manager.php:154
+#: core/settings/editor-preferences/model.php:130
+#: includes/elements/section.php:1327
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:4258
+msgid "Mobile"
+msgstr "Mudah Alih"
+
+#: includes/elements/section.php:1316 includes/elements/section.php:1327
+msgid "Reverse Columns"
+msgstr "Kolum Bertentangan"
+
+#: includes/controls/dimensions.php:121 includes/controls/dimensions.php:124
+msgid "Link values together"
+msgstr "Pautkan nilai-nilai bersama"
+
+#: includes/widgets/shortcode.php:42 includes/widgets/shortcode.php:99
+msgid "Shortcode"
+msgstr "Kod Ringkas"
+
+#: includes/template-library/sources/remote.php:46
+msgid "Remote"
+msgstr "Jarak Jauh"
+
+#: includes/template-library/sources/local.php:906
+msgid "Import Now"
+msgstr "Import Sekarang"
+
+#: includes/template-library/sources/local.php:897
+msgid "Import Templates"
+msgstr "Import Templat"
+
+#: includes/template-library/sources/local.php:869
+msgid "Export Template"
+msgstr "Eksport Templat"
+
+#: includes/template-library/sources/local.php:456
+msgid "(no title)"
+msgstr "(tiada tajuk)"
+
+#: includes/template-library/sources/local.php:268
+msgctxt "Template Library"
+msgid "Type"
+msgstr "Jenis"
+
+#: includes/template-library/sources/local.php:226
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "Cari Templat"
+
+#: includes/template-library/sources/local.php:225
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "Lihat Templat"
+
+#: includes/template-library/sources/local.php:224
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "Semua Templat"
+
+#: includes/template-library/sources/local.php:223
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "Templat Baharu"
+
+#: includes/template-library/sources/local.php:222
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "Sunting Templat"
+
+#: includes/template-library/sources/local.php:221
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "Tambah Templat Baharu"
+
+#: includes/template-library/sources/local.php:220
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "Tambah Baharu"
+
+#: includes/template-library/sources/local.php:219
+msgctxt "Template Library"
+msgid "Template"
+msgstr "Templat"
+
+#: includes/settings/tools.php:269
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "Perpustakaan Elementor secara automatik dikemas kini setiap hari. Anda juga boleh mengemas kini secara manual dengan mengklik pada butang selaras."
+
+#: core/document-types/page.php:37 modules/library/documents/page.php:56
+#: assets/js/editor.js:10486
+msgid "Page"
+msgstr "Halaman"
+
+#: includes/utils.php:155 assets/js/editor.js:10651
+msgid "An error occurred"
+msgstr "Ralat berlaku"
+
+#: includes/editor-templates/templates.php:222
+msgid "Enter Template Name"
+msgstr "Masukkan Nama Templat"
+
+#: includes/editor-templates/templates.php:188
+#: includes/template-library/sources/local.php:1084
+#: assets/js/app-packages.js:11243 assets/js/app-packages.js:13671
+#: assets/js/app.js:10481 assets/js/app.js:12909
+msgid "Export"
+msgstr "Eksport"
+
+#: includes/editor-templates/templates.php:37
+msgid "Back to Library"
+msgstr "Kembali ke Pustaka"
+
+#: includes/editor-templates/templates.php:174
+#: includes/editor-templates/templates.php:198 assets/js/editor.js:9081
+msgid "Insert"
+msgstr "Sisip"
+
+#: core/common/modules/connect/apps/library.php:14 assets/js/editor.js:10864
+msgid "Library"
+msgstr "Pustaka"
+
+#: includes/editor-templates/global.php:18
+#: includes/editor-templates/library-layout.php:15
+#: includes/editor-templates/library-layout.php:16
+#: includes/editor-templates/responsive-bar.php:43
+#: includes/editor-templates/responsive-bar.php:44 includes/frontend.php:1232
+#: assets/js/app-packages.js:6823 assets/js/app-packages.js:9232
+#: assets/js/app-packages.js:9867 assets/js/app.js:6764 assets/js/app.js:8886
+#: assets/js/app.js:9365 assets/js/editor.js:36309
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/editor-templates/hotkeys.php:134
+msgid "Template Library"
+msgstr "Pustaka Templat"
+
+#: includes/editor-templates/global.php:30
+msgid "Select your Structure"
+msgstr "Pilih Struktur anda"
+
+#: includes/editor-templates/global.php:24
+msgid "Add Template"
+msgstr "Tambah Templat"
+
+#: includes/template-library/sources/local.php:200
+msgid "Local"
+msgstr "Setempat"
+
+#: core/common/modules/finder/categories/tools.php:28
+#: core/common/modules/finder/categories/tools.php:46
+#: includes/settings/tools.php:38 includes/settings/tools.php:39
+#: includes/settings/tools.php:387
+msgid "Tools"
+msgstr "Alat"
+
+#: includes/editor-templates/templates.php:14
+#: includes/editor-templates/templates.php:15 includes/settings/tools.php:265
+#: includes/settings/tools.php:268
+msgid "Sync Library"
+msgstr "Selaras Perpustakaan"
+
+#: includes/template-library/sources/local.php:227
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "Tiada Templat dijumpai"
+
+#: includes/template-library/sources/local.php:228
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "Tiada Templat dijumpai pada Trash"
+
+#: includes/editor-templates/templates.php:132
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "Tunggu! Lebih banyak template yang menarik bakal muncul."
+
+#: includes/template-library/sources/local.php:365
+#: includes/template-library/sources/local.php:1614
+#: assets/js/app-packages.js:13285 assets/js/app.js:12523
+msgid "Saved Templates"
+msgstr "Templat Simpanan"
+
+#: core/admin/admin-notices.php:314 core/admin/admin-notices.php:355
+#: core/admin/admin-notices.php:397 core/admin/admin-notices.php:439
+#: core/admin/admin-notices.php:481
+#: core/app/modules/import-export/module.php:220
+#: core/app/modules/import-export/module.php:232
+#: core/experiments/manager.php:222 core/experiments/manager.php:235
+#: core/experiments/manager.php:244 core/experiments/manager.php:254
+#: includes/controls/url.php:76 includes/settings/settings.php:360
+#: includes/settings/settings.php:483 modules/safe-mode/module.php:361
+#: modules/safe-mode/module.php:370
+#: modules/safe-mode/mu-plugin/elementor-safe-mode.php:103
+#: assets/js/app-packages.js:7653 assets/js/app-packages.js:11477
+#: assets/js/app-packages.js:11897 assets/js/app-packages.js:12007
+#: assets/js/app-packages.js:12526 assets/js/app-packages.js:12726
+#: assets/js/app-packages.js:12777 assets/js/app-packages.js:12821
+#: assets/js/app-packages.js:14661 assets/js/app-packages.js:14803
+#: assets/js/app.js:7594 assets/js/app.js:10715 assets/js/app.js:11135
+#: assets/js/app.js:11245 assets/js/app.js:11764 assets/js/app.js:11964
+#: assets/js/app.js:12015 assets/js/app.js:12059 assets/js/editor.js:14042
+#: assets/js/editor.js:17623 assets/js/editor.js:17655
+#: assets/js/editor.js:27580
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:959
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:3608
+msgid "Learn More"
+msgstr "Ketahui Lebih Lanjut"
+
+#: includes/widgets/button.php:394 includes/widgets/icon-box.php:338
+#: includes/widgets/icon.php:286 includes/widgets/image-box.php:288
+#: includes/widgets/image.php:470 includes/widgets/social-icons.php:539
+#: modules/shapes/widgets/text-path.php:425
+msgid "Hover Animation"
+msgstr "Animasi Apung"
+
+#: includes/controls/groups/background.php:485
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "Mengandungi"
+
+#: includes/elements/column.php:813 includes/elements/section.php:1277
+#: includes/widgets/common.php:223
+msgid "Fast"
+msgstr "Laju"
+
+#: includes/elements/column.php:811 includes/elements/section.php:1275
+#: includes/widgets/common.php:221
+msgid "Slow"
+msgstr "Perlahan"
+
+#: core/schemes/color.php:78
+msgid "Color Palettes"
+msgstr "Palet Warna"
+
+#: includes/elements/column.php:798 includes/elements/section.php:1262
+#: includes/widgets/common.php:208 includes/widgets/video.php:811
+msgid "Entrance Animation"
+msgstr "Animasi Masuk"
+
+#: includes/controls/groups/box-shadow.php:61
+#: includes/controls/groups/box-shadow.php:96
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr "Bayangan Kotak"
+
+#: includes/controls/box-shadow.php:73 includes/controls/text-shadow.php:76
+#: includes/widgets/tabs.php:157
+msgid "Vertical"
+msgstr "Menegak"
+
+#: includes/controls/box-shadow.php:68 includes/controls/text-shadow.php:71
+#: includes/widgets/tabs.php:156
+msgid "Horizontal"
+msgstr "Melintang"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:66
+msgid "Blur"
+msgstr "Kabur"
+
+#: core/schemes/typography.php:78
+msgid "Default Fonts"
+msgstr "Fon Lalai"
+
+#: includes/controls/box-shadow.php:83
+msgid "Spread"
+msgstr "Beza Nilai"
+
+#: includes/settings/settings.php:451
+msgid "Disable Default Colors"
+msgstr "Abaikan Warna Lalai"
+
+#: includes/widgets/testimonial.php:171
+msgid "Aside"
+msgstr "Sisipan"
+
+#: includes/widgets/testimonial.php:45 includes/widgets/testimonial.php:88
+msgid "Testimonial"
+msgstr "Testimoni"
+
+#: includes/widgets/social-icons.php:189 includes/widgets/social-icons.php:347
+msgid "Official Color"
+msgstr "Warna Rasmi"
+
+#: includes/widgets/social-icons.php:261
+msgid "Rounded"
+msgstr "Bulat"
+
+#: includes/widgets/social-icons.php:42 includes/widgets/social-icons.php:85
+#: includes/widgets/social-icons.php:227
+msgid "Social Icons"
+msgstr "Ikon Sosial"
+
+#: includes/widgets/progress.php:101
+msgid "My Skill"
+msgstr "Kemahiran Saya"
+
+#: includes/widgets/audio.php:232
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: includes/widgets/audio.php:221
+msgid "Play Counts"
+msgstr "Kiraan Mainan"
+
+#: includes/widgets/audio.php:199
+msgid "Share Button"
+msgstr "Butang Kongsi"
+
+#: includes/widgets/audio.php:174 includes/widgets/video.php:506
+msgid "Download Button"
+msgstr "Butang Muat Turun"
+
+#: includes/widgets/audio.php:163
+msgid "Like Button"
+msgstr "Butang Suka"
+
+#: includes/widgets/audio.php:152
+msgid "Buy Button"
+msgstr "Butang Beli"
+
+#: includes/widgets/audio.php:122
+msgid "Visual Player"
+msgstr "Pemain Visual"
+
+#: includes/widgets/audio.php:53 includes/widgets/audio.php:96
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/elements/column.php:326 includes/elements/section.php:626
+msgid "Background Overlay"
+msgstr "Tindihan Latar Belakang"
+
+#: core/admin/feedback.php:126
+msgid "Quick Feedback"
+msgstr "Maklumbalas Pantas"
+
+#: core/admin/feedback.php:118
+msgid "Please share the reason"
+msgstr "Sila kongsi sebab"
+
+#: core/admin/feedback.php:117
+msgid "Other"
+msgstr "Lain-lain"
+
+#: core/admin/feedback.php:108
+msgid "It's a temporary deactivation"
+msgstr "Ia adalah penangguhan sementara"
+
+#: core/admin/feedback.php:104
+msgid "I couldn't get the plugin to work"
+msgstr "Saya tidak dapat membolehkan pemalam untuk berfungsi"
+
+#: core/admin/feedback.php:101
+msgid "Please share which plugin"
+msgstr "Sila kongsi pemalam yang mana"
+
+#: core/admin/feedback.php:100
+msgid "I found a better plugin"
+msgstr "Saya temui pemalam yang lebih baik"
+
+#: core/admin/feedback.php:96
+msgid "I no longer need the plugin"
+msgstr "Saya tidak lagi memerlukan pemalam ini"
+
+#: core/admin/admin-notices.php:137 core/base/db-upgrades-manager.php:93
+msgid "Update Now"
+msgstr "Kemas Kini Sekarang"
+
+#: includes/elements/section.php:287
+msgid "Extended"
+msgstr "Diluaskan"
+
+#: includes/widgets/audio.php:210
+msgid "Comments"
+msgstr "Komen"
+
+#: core/admin/feedback.php:134
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "Sekiranya anda mempunyai masa, sila kongsikan kenapa anda nyahaktifkan Elementor:"
+
+#. translators: 1: Details URL, 2: Accessibility text, 3: Version number, 4:
+#. Update URL, 5: Accessibility text
+#: core/admin/admin-notices.php:120
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "Versi baharu Elementor Page Builder tersedia. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">Lihat versi %3$s selanjutnya</a> atau <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">kemaskini sekarang</a>."
+
+#. translators: %s: Elementor version
+#: core/admin/admin-notices.php:124
+msgid "View Elementor version %s details"
+msgstr "Lihat perincian Versi Elementor %s"
+
+#: includes/widgets/image-carousel.php:182 includes/widgets/image.php:195
+msgid "Custom URL"
+msgstr "URL Tersuai"
+
+#: core/kits/documents/tabs/settings-background.php:18
+#: includes/elements/column.php:252 includes/elements/section.php:553
+#: includes/widgets/accordion.php:287 includes/widgets/accordion.php:442
+#: includes/widgets/button.php:323 includes/widgets/button.php:365
+#: includes/widgets/common.php:253 includes/widgets/toggle.php:314
+#: includes/widgets/toggle.php:470
+msgid "Background"
+msgstr "Latar belakang"
+
+#: includes/elements/section.php:289
+msgid "Wider"
+msgstr "Lebih lebar"
+
+#: core/common/modules/finder/categories/general.php:29
+#: core/role-manager/role-manager.php:57 includes/managers/elements.php:279
+#: includes/settings/settings.php:430 includes/settings/tools.php:252
+msgid "General"
+msgstr "Am"
+
+#: includes/editor-templates/hotkeys.php:43 assets/js/editor-document.js:17774
+#: assets/js/editor-document.js:18738 assets/js/editor-document.js:20236
+#: assets/js/editor.js:18749 assets/js/editor.js:20338
+#: assets/js/editor.js:29588 assets/js/editor.js:30481
+msgid "Paste"
+msgstr "Tampal"
+
+#: includes/widgets/accordion.php:414 includes/widgets/divider.php:760
+#: includes/widgets/divider.php:900 includes/widgets/icon-box.php:350
+#: includes/widgets/icon-box.php:517 includes/widgets/image-box.php:225
+#: includes/widgets/image-box.php:451 includes/widgets/image-carousel.php:549
+#: includes/widgets/image-gallery.php:191 includes/widgets/image.php:602
+#: includes/widgets/social-icons.php:428 includes/widgets/star-rating.php:291
+#: includes/widgets/toggle.php:442
+msgid "Spacing"
+msgstr "Jarak"
+
+#: includes/widgets/image-carousel.php:402
+#: includes/widgets/image-carousel.php:464
+msgid "Outside"
+msgstr "Di luar"
+
+#: includes/widgets/image-carousel.php:401
+#: includes/widgets/image-carousel.php:465
+msgid "Inside"
+msgstr "Di dalam"
+
+#: includes/controls/groups/background.php:764
+#: includes/widgets/image-carousel.php:359
+msgid "Direction"
+msgstr "Arah"
+
+#: includes/widgets/audio.php:135 includes/widgets/image-carousel.php:246
+msgid "Additional Options"
+msgstr "Pilihan Tambahan"
+
+#: includes/widgets/alert.php:194
+msgid "Left Border Width"
+msgstr "Lebar Sempadan Kiri"
+
+#: includes/elements/column.php:807 includes/elements/section.php:1271
+#: includes/widgets/common.php:217 includes/widgets/counter.php:159
+msgid "Animation Duration"
+msgstr "Tempoh Animasi"
+
+#: includes/widgets/image-carousel.php:147
+msgid "Image Stretch"
+msgstr "Regangan Imej"
+
+#: includes/widgets/image-carousel.php:45
+#: includes/widgets/image-carousel.php:88
+msgid "Image Carousel"
+msgstr "Imej Karusel"
+
+#: includes/widgets/image-carousel.php:348
+msgid "Animation Speed"
+msgstr "Kelajuan Animasi"
+
+#: includes/widgets/video.php:480
+msgid "Intro Byline"
+msgstr "Nama Penulis Pengenalan"
+
+#: includes/controls/groups/image-size.php:297
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "Anda boleh pangkas saiz imej asal ke saiz tersuai. Anda juga boleh tetapkan satu nilai pemalar untuk tinggi dan lebar untuk pastikan saiz nisbah asal kekal."
+
+#: includes/widgets/image-carousel.php:164
+msgid "Arrows and Dots"
+msgstr "Anak Panah dan Titik"
+
+#: includes/widgets/video.php:452
+msgid "Intro Title"
+msgstr "Tajuk Pengenalan"
+
+#: includes/widgets/video.php:466
+msgid "Intro Portrait"
+msgstr "Potret Pengenalan"
+
+#: includes/widgets/video.php:320
+msgid "Loop"
+msgstr "Gelungan"
+
+#: includes/widgets/video.php:268
+msgid "Video Options"
+msgstr "Pilihan Video"
+
+#: includes/widgets/video.php:115
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:44 includes/widgets/video.php:103
+#: includes/widgets/video.php:623
+msgid "Video"
+msgstr "Video"
+
+#: includes/controls/groups/image-size.php:378
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "Tersuai"
+
+#: includes/controls/groups/border.php:67
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "Putus-putus"
+
+#: includes/controls/groups/border.php:66
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Titik-titik"
+
+#: includes/controls/image-dimensions.php:81
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "Pelayan tidak mempunyai ImageMagick atau GD dipasang dan/atau dibolehkan! Mana-mana pustaka tersebut diperlukan bagi WordPress untuk dapat mengubah saiz imej. Sila hubungi pentadbir pelayan anda untuk membolehkannya sebelum meneruskan."
+
+#: includes/widgets/image-gallery.php:263
+msgid "Display"
+msgstr "Papar"
+
+#: includes/controls/groups/image-size.php:295
+msgctxt "Image Size Control"
+msgid "Image Dimension"
+msgstr "Dimensi Imej"
+
+#: includes/controls/groups/border.php:64
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Solid"
+
+#: includes/controls/groups/border.php:65
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Lebih Tebal"
+
+#: includes/widgets/audio.php:243 includes/widgets/video.php:494
+msgid "Controls Color"
+msgstr "Kawalan Warna"
+
+#: includes/widgets/image-carousel.php:336
+msgid "Fade"
+msgstr "Pudar"
+
+#: includes/controls/groups/image-size.php:375
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Penuh"
+
+#: includes/widgets/image-carousel.php:331
+msgid "Effect"
+msgstr "Kesan"
+
+#: includes/widgets/icon-box.php:493 includes/widgets/image-box.php:427
+msgid "Vertical Alignment"
+msgstr "Penjajaran Menegak"
+
+#: includes/controls/groups/background.php:660
+#: includes/widgets/image-carousel.php:317
+msgid "Infinite Loop"
+msgstr "Gelungan Tanpa Had"
+
+#: includes/widgets/image-carousel.php:166
+#: includes/widgets/image-carousel.php:448
+msgid "Dots"
+msgstr "Titik"
+
+#: includes/controls/groups/image-size.php:290
+msgctxt "Image Size Control"
+msgid "Image Size"
+msgstr "Saiz Imej"
+
+#: includes/controls/groups/typography.php:180
+msgctxt "Typography Control"
+msgid "None"
+msgstr "Tiada"
+
+#: includes/widgets/icon-box.php:146 includes/widgets/image-box.php:123
+msgid "This is the heading"
+msgstr "Ini adalah tajuk"
+
+#: includes/widgets/accordion.php:207 includes/widgets/icon-box.php:219
+#: includes/widgets/image-box.php:186 includes/widgets/toggle.php:211
+msgid "Title HTML Tag"
+msgstr "Tajuk Tag HTML"
+
+#: includes/elements/column.php:760 includes/elements/section.php:1244
+#: includes/widgets/common.php:190
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Tambah class tersuai anda TANPA titik. seperti contoh: my-class"
+
+#: core/kits/documents/tabs/global-typography.php:178
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "Senarai fon yang digunakan jika fon yang dipilih tidak tersedia."
+
+#: includes/managers/elements.php:308
+msgid "Pojo Themes"
+msgstr "Tema Pojo"
+
+#: includes/widgets/wordpress.php:229
+msgid "Form"
+msgstr "Borang"
+
+#: modules/system-info/reporters/server.php:121
+msgctxt "System Info"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "Kami mengesyorkan untuk menggunakan php 5.4 atau lebih tinggi"
+
+#: includes/editor-templates/panel-elements.php:10
+#: assets/js/editor-document.js:8938 assets/js/editor-document.js:11053
+#: assets/js/editor-document.js:11612 assets/js/editor.js:24400
+msgid "Elements"
+msgstr "Elemen"
+
+#: core/admin/admin.php:275
+#: core/common/modules/finder/categories/settings.php:28
+#: core/dynamic-tags/base-tag.php:171 includes/editor-templates/panel.php:65
+#: includes/editor-templates/responsive-bar.php:49
+#: includes/managers/controls.php:304 includes/settings/settings.php:396
+#: assets/js/editor.js:9744 assets/js/editor.js:25184 assets/js/editor.js:36462
+msgid "Settings"
+msgstr "Tetapan"
+
+#: includes/controls/groups/typography.php:167
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "Serong"
+
+#: includes/controls/groups/typography.php:155
+#: includes/controls/groups/typography.php:165
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/controls/groups/typography.php:153
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "Huruf kecil"
+
+#: includes/controls/groups/typography.php:154
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "Huruf besar"
+
+#: includes/controls/groups/typography.php:152
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "Huruf besar"
+
+#: includes/controls/groups/typography.php:166
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "Italic"
+
+#: includes/controls/dimensions.php:90 includes/elements/column.php:169
+#: includes/elements/section.php:428 includes/elements/section.php:451
+#: includes/elements/section.php:950 includes/widgets/common.php:903
+#: includes/widgets/icon-box.php:498 includes/widgets/image-box.php:432
+msgid "Bottom"
+msgstr "Bawah"
+
+#: includes/controls/dimensions.php:89 includes/elements/column.php:677
+#: includes/elements/section.php:1155 includes/widgets/button.php:176
+#: includes/widgets/common.php:784 includes/widgets/common.php:785
+#: includes/widgets/divider.php:460 includes/widgets/divider.php:748
+#: includes/widgets/divider.php:888 includes/widgets/heading.php:188
+#: includes/widgets/icon-box.php:197 includes/widgets/icon-box.php:476
+#: includes/widgets/icon-list.php:250 includes/widgets/icon-list.php:457
+#: includes/widgets/icon.php:179 includes/widgets/image-box.php:174
+#: includes/widgets/image-box.php:410 includes/widgets/image-carousel.php:364
+#: includes/widgets/image-carousel.php:634
+#: includes/widgets/image-gallery.php:291 includes/widgets/image.php:146
+#: includes/widgets/image.php:539 includes/widgets/social-icons.php:309
+#: includes/widgets/star-rating.php:182 includes/widgets/tabs.php:372
+#: includes/widgets/testimonial.php:198 includes/widgets/text-editor.php:200
+#: modules/shapes/widgets/text-path.php:163
+msgid "Right"
+msgstr "Kanan"
+
+#: includes/controls/dimensions.php:88 includes/elements/column.php:167
+#: includes/elements/section.php:426 includes/elements/section.php:449
+#: includes/elements/section.php:949 includes/widgets/common.php:899
+#: includes/widgets/icon-box.php:193 includes/widgets/icon-box.php:496
+#: includes/widgets/image-box.php:170 includes/widgets/image-box.php:430
+#: includes/widgets/testimonial.php:172 includes/widgets/video.php:797
+msgid "Top"
+msgstr "Atas"
+
+#: core/admin/admin.php:155 core/admin/admin.php:163 core/base/document.php:475
+#: modules/admin-bar/module.php:119 modules/gutenberg/module.php:100
+#: modules/gutenberg/module.php:110
+msgid "Edit with Elementor"
+msgstr "Sunting dengan Elementor"
+
+#: modules/gutenberg/module.php:97
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Kembali ke Penyunting WordPress"
+
+#: core/kits/documents/tabs/theme-style-typography.php:116
+#: includes/widgets/audio.php:103 includes/widgets/button.php:149
+#: includes/widgets/heading.php:124 includes/widgets/icon-box.php:171
+#: includes/widgets/icon-list.php:147 includes/widgets/icon.php:155
+#: includes/widgets/image-box.php:148 includes/widgets/image-carousel.php:176
+#: includes/widgets/image-carousel.php:190
+#: includes/widgets/image-gallery.php:128 includes/widgets/image.php:189
+#: includes/widgets/image.php:203 includes/widgets/social-icons.php:170
+#: includes/widgets/testimonial.php:155 includes/widgets/video.php:126
+#: includes/widgets/video.php:148 includes/widgets/video.php:169
+#: modules/shapes/widgets/text-path.php:136
+msgid "Link"
+msgstr "Pautan"
+
+#: includes/controls/dimensions.php:91 includes/elements/column.php:669
+#: includes/elements/section.php:1147 includes/widgets/button.php:168
+#: includes/widgets/common.php:784 includes/widgets/common.php:785
+#: includes/widgets/divider.php:452 includes/widgets/divider.php:740
+#: includes/widgets/divider.php:880 includes/widgets/heading.php:180
+#: includes/widgets/icon-box.php:189 includes/widgets/icon-box.php:468
+#: includes/widgets/icon-list.php:242 includes/widgets/icon-list.php:449
+#: includes/widgets/icon.php:171 includes/widgets/image-box.php:166
+#: includes/widgets/image-box.php:402 includes/widgets/image-carousel.php:363
+#: includes/widgets/image-carousel.php:626
+#: includes/widgets/image-gallery.php:283 includes/widgets/image.php:138
+#: includes/widgets/image.php:531 includes/widgets/social-icons.php:301
+#: includes/widgets/star-rating.php:174 includes/widgets/tabs.php:364
+#: includes/widgets/testimonial.php:190 includes/widgets/text-editor.php:192
+#: modules/shapes/widgets/text-path.php:155
+msgid "Left"
+msgstr "Kiri"
+
+#: includes/fonts.php:67
+msgid "System"
+msgstr "Sistem"
+
+#: includes/fonts.php:68
+msgid "Google"
+msgstr "Google"
+
+#: includes/controls/groups/background.php:94
+msgctxt "Background Control"
+msgid "Classic"
+msgstr "Klasik"
+
+#: includes/controls/groups/background.php:126
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "Jenis Latar Belakang"
+
+#: includes/controls/groups/background.php:132
+msgctxt "Background Control"
+msgid "Color"
+msgstr "Warna"
+
+#: includes/controls/groups/background.php:135
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: includes/controls/groups/background.php:249
+msgctxt "Background Control"
+msgid "Image"
+msgstr "Imej"
+
+#: includes/controls/groups/background.php:255
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr "Imej Latar Belakang"
+
+#: includes/controls/groups/background.php:224
+#: includes/controls/groups/background.php:266
+msgctxt "Background Control"
+msgid "Position"
+msgstr "Kedudukan"
+
+#: includes/controls/groups/background.php:231
+#: includes/controls/groups/background.php:276
+#: includes/controls/groups/background.php:738
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "Atas Kiri"
+
+#: includes/controls/groups/background.php:230
+#: includes/controls/groups/background.php:275
+#: includes/controls/groups/background.php:737
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Atas Tengah"
+
+#: includes/controls/groups/background.php:232
+#: includes/controls/groups/background.php:277
+#: includes/controls/groups/background.php:739
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Atas Kanan"
+
+#: includes/controls/groups/background.php:228
+#: includes/controls/groups/background.php:273
+#: includes/controls/groups/background.php:735
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Tengah Kiri"
+
+#: includes/controls/groups/background.php:227
+#: includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:734
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Tengah Tengah"
+
+#: includes/controls/groups/background.php:229
+#: includes/controls/groups/background.php:274
+#: includes/controls/groups/background.php:736
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Tengah Kanan"
+
+#: includes/controls/groups/background.php:234
+#: includes/controls/groups/background.php:279
+#: includes/controls/groups/background.php:741
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Bawah Kiri"
+
+#: includes/controls/groups/background.php:483
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/controls/groups/background.php:477
+msgctxt "Background Control"
+msgid "Size"
+msgstr "Saiz"
+
+#: includes/controls/groups/background.php:465
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr "Ulang-y"
+
+#: includes/controls/groups/background.php:464
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr "Ulang-x"
+
+#: includes/controls/groups/background.php:462
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr "Tiada-ulang"
+
+#: includes/controls/groups/background.php:456
+#: includes/controls/groups/background.php:463
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Ulang"
+
+#: includes/controls/groups/background.php:432
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Tetap"
+
+#: includes/controls/groups/background.php:431
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Tatal"
+
+#: includes/controls/groups/background.php:426
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "Lampiran"
+
+#: includes/controls/groups/background.php:235
+#: includes/controls/groups/background.php:280
+#: includes/controls/groups/background.php:742
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Bawah Kanan"
+
+#: includes/controls/groups/background.php:233
+#: includes/controls/groups/background.php:278
+#: includes/controls/groups/background.php:740
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Bawah Tengah"
+
+#: includes/controls/groups/typography.php:140
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "Berat"
+
+#: includes/controls/groups/typography.php:106
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Keluarga"
+
+#: includes/controls/groups/typography.php:113
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "Saiz"
+
+#: includes/controls/groups/border.php:88
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Warna"
+
+#: includes/controls/groups/border.php:76
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Lebar"
+
+#: includes/widgets/divider.php:323 includes/widgets/icon-list.php:281
+msgid "Dashed"
+msgstr "Putus-putus"
+
+#: includes/widgets/divider.php:322 includes/widgets/icon-list.php:280
+msgid "Dotted"
+msgstr "Titik-titik"
+
+#: includes/widgets/divider.php:320 includes/widgets/icon-list.php:278
+#: includes/widgets/star-rating.php:143
+msgid "Solid"
+msgstr "Pepejal"
+
+#: core/kits/documents/tabs/settings-lightbox.php:99
+#: core/kits/documents/tabs/settings-lightbox.php:116
+#: includes/controls/animation.php:147 includes/controls/groups/border.php:63
+#: includes/controls/hover-animation.php:119 includes/controls/icons.php:109
+#: includes/controls/icons.php:111 includes/elements/section.php:941
+#: includes/widgets/divider.php:479 includes/widgets/image-carousel.php:167
+#: includes/widgets/image-carousel.php:180
+#: includes/widgets/image-carousel.php:224
+#: includes/widgets/image-gallery.php:134 includes/widgets/image.php:162
+#: includes/widgets/image.php:193
+msgid "None"
+msgstr "Tiada"
+
+#: includes/controls/groups/border.php:60
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Jenis Sempadan"
+
+#: includes/controls/groups/background.php:553
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr "Pautan Video"
+
+#: includes/controls/groups/background.php:484
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Penutup"
+
+#: includes/editor-templates/global.php:21
+msgid "Add New Section"
+msgstr "Tambah Bahagian Baharu"
+
+#: core/admin/admin.php:174 includes/editor-templates/editor-wrapper.php:50
+#: includes/editor-templates/templates.php:50 modules/gutenberg/module.php:121
+#: assets/js/app-packages.js:14196
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:541
+msgid "Loading"
+msgstr "Memuatkan"
+
+#. Plugin Name of the plugin
+#: core/admin/admin.php:224 core/admin/admin.php:336 core/admin/admin.php:394
+#: core/app/view.php:21 core/documents-manager.php:354
+#: core/upgrade/manager.php:36 includes/editor-templates/editor-wrapper.php:30
+#: includes/plugin.php:782 includes/settings/settings.php:75
+#: includes/settings/settings.php:76 includes/settings/settings.php:583
+#: modules/compatibility-tag/module.php:36 assets/js/app-packages.js:6892
+#: assets/js/app.js:6833
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/controls/repeater.php:172
+msgid "Add Item"
+msgstr "Tambah Butir"
+
+#: core/kits/views/trash-kit-confirmation.php:27
+#: includes/editor-templates/hotkeys.php:60
+#: includes/editor-templates/templates.php:183
+#: assets/js/editor-document.js:17810 assets/js/editor.js:10639
+#: assets/js/editor.js:13737 assets/js/editor.js:17345
+#: assets/js/editor.js:18785 assets/js/editor.js:36667
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/controls/icon.php:872 includes/controls/icon.php:873
+msgid "Select Icon"
+msgstr "Pilih Ikon"
+
+#: includes/elements/section.php:290 includes/maintenance-mode.php:226
+#: includes/widgets/common.php:73 includes/widgets/common.php:492
+#: includes/widgets/common.php:553 includes/widgets/common.php:677
+#: includes/widgets/image-carousel.php:553
+#: includes/widgets/image-gallery.php:195 includes/widgets/social-icons.php:190
+#: includes/widgets/social-icons.php:348 modules/shapes/module.php:29
+#: assets/js/editor.js:34045
+msgid "Custom"
+msgstr "Tersuai"
+
+#: includes/controls/groups/typography.php:301
+msgctxt "Typography Control"
+msgid "Typography"
+msgstr "Tipografi"
+
+#: includes/controls/groups/typography.php:160
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "Gaya"
+
+#: core/schemes/base-ui.php:119 includes/controls/image-dimensions.php:104
+#: includes/editor-templates/panel.php:151
+#: modules/history/views/revisions-panel-template.php:18
+msgid "Apply"
+msgstr "Kenakan"
+
+#: core/schemes/base-ui.php:115
+#: modules/history/views/revisions-panel-template.php:13
+#: assets/js/editor.js:5763
+msgid "Discard"
+msgstr "Buang"
+
+#: core/schemes/base-ui.php:109 includes/controls/structure.php:66
+msgid "Reset"
+msgstr "Set semula"
+
+#: includes/editor-templates/templates.php:170 assets/js/editor.js:23556
+msgid "Preview"
+msgstr "Pratonton"
+
+#: includes/editor-templates/hotkeys.php:75
+#: includes/editor-templates/templates.php:18
+#: includes/editor-templates/templates.php:19
+#: includes/editor-templates/templates.php:216
+#: includes/editor-templates/templates.php:227 assets/js/editor.js:5762
+msgid "Save"
+msgstr "Simpan"
+
+#: core/admin/admin.php:474
+msgid "Help"
+msgstr "Bantuan"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:92
+#: core/kits/documents/tabs/theme-style-form-fields.php:119
+#: core/kits/documents/tabs/theme-style-images.php:63
+#: core/kits/documents/tabs/theme-style-typography.php:126
+#: includes/elements/column.php:262 includes/elements/column.php:339
+#: includes/elements/column.php:388 includes/elements/column.php:491
+#: includes/elements/column.php:812 includes/elements/section.php:563
+#: includes/elements/section.php:636 includes/elements/section.php:700
+#: includes/elements/section.php:819 includes/elements/section.php:1276
+#: includes/widgets/button.php:303 includes/widgets/common.php:222
+#: includes/widgets/common.php:263 includes/widgets/common.php:330
+#: includes/widgets/google-maps.php:207 includes/widgets/heading.php:261
+#: includes/widgets/icon-box.php:261 includes/widgets/icon.php:205
+#: includes/widgets/image-box.php:297 includes/widgets/image.php:386
+#: modules/shapes/widgets/text-path.php:382
+#: modules/shapes/widgets/text-path.php:480
+msgid "Normal"
+msgstr "Biasa"
+
+#: core/breakpoints/manager.php:164
+#: core/settings/editor-preferences/model.php:131
+#: includes/elements/section.php:1316
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:4249
+msgid "Tablet"
+msgstr "Tablet"
+
+#: includes/editor-templates/hotkeys.php:108
+#: includes/editor-templates/panel.php:78
+#: includes/editor-templates/panel.php:80
+msgid "Responsive Mode"
+msgstr "Mod Responsif"
+
+#: includes/editor-templates/panel.php:59
+#: includes/editor-templates/panel.php:60
+msgid "Widgets Panel"
+msgstr "Panel Widget"
+
+#: includes/editor-templates/panel.php:54
+#: includes/editor-templates/panel.php:55
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/elements/column.php:843 includes/elements/section.php:1308
+#: includes/managers/controls.php:302 includes/widgets/common.php:995
+msgid "Responsive"
+msgstr "Responsif"
+
+#: core/common/modules/finder/categories/settings.php:51
+#: core/dynamic-tags/tag.php:88 includes/elements/column.php:693
+#: includes/elements/section.php:1171 includes/managers/controls.php:301
+#: includes/settings/settings.php:511 includes/widgets/common.php:114
+#: assets/js/editor.js:9750 assets/js/editor.js:24230
+msgid "Advanced"
+msgstr "Lanjutan"
+
+#: includes/managers/controls.php:300 includes/settings/settings.php:475
+#: includes/widgets/divider.php:363 includes/widgets/icon-list.php:275
+#: assets/js/editor.js:9747 assets/js/editor.js:24227
+msgid "Style"
+msgstr "Gaya"
+
+#: includes/managers/controls.php:299 includes/widgets/accordion.php:110
+#: includes/widgets/accordion.php:434 includes/widgets/alert.php:125
+#: includes/widgets/icon-box.php:456 includes/widgets/image-box.php:132
+#: includes/widgets/image-box.php:390 includes/widgets/tabs.php:112
+#: includes/widgets/tabs.php:388 includes/widgets/testimonial.php:95
+#: includes/widgets/testimonial.php:221 includes/widgets/toggle.php:111
+#: includes/widgets/toggle.php:462 assets/js/app-packages.js:13293
+#: assets/js/app.js:12531 assets/js/editor.js:24224
+msgid "Content"
+msgstr "Kandungan"
+
+#: includes/widgets/image-gallery.php:118 includes/widgets/social-icons.php:272
+#: includes/widgets/text-editor.php:136
+msgid "Columns"
+msgstr "Lajur"
+
+#: core/schemes/color.php:64
+msgid "Colors"
+msgstr "Warna-warna"
+
+#: includes/elements/column.php:665 includes/elements/section.php:1143
+msgid "Text Align"
+msgstr "Jajaran Teks"
+
+#: includes/elements/column.php:641 includes/elements/section.php:1119
+msgid "Link Color"
+msgstr "Warna Pautan"
+
+#: includes/elements/column.php:616 includes/elements/section.php:1094
+msgid "Heading Color"
+msgstr "Warna Tajuk"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:73
+#: core/kits/documents/tabs/theme-style-form-fields.php:90
+#: core/kits/documents/tabs/theme-style-form-fields.php:108
+#: core/kits/documents/tabs/theme-style-typography.php:19
+#: core/kits/documents/tabs/theme-style-typography.php:38
+#: core/kits/documents/tabs/theme-style-typography.php:68
+#: core/kits/documents/tabs/theme-style-typography.php:145
+#: core/kits/documents/tabs/theme-style-typography.php:175
+#: core/kits/documents/tabs/theme-style-typography.php:221
+#: core/schemes/typography.php:64 includes/elements/column.php:607
+#: includes/elements/section.php:1086 assets/js/editor-modules.js:5086
+#: assets/js/editor.js:30128
+msgid "Typography"
+msgstr "Tipografi"
+
+#: includes/elements/column.php:58
+msgid "Column"
+msgstr "Lajur"
+
+#: includes/elements/section.php:78 modules/library/documents/section.php:42
+#: assets/js/editor.js:10487
+msgid "Section"
+msgstr "Bahagian"
+
+#: includes/elements/column.php:196 includes/elements/column.php:673
+#: includes/elements/section.php:1151 includes/widgets/button.php:172
+#: includes/widgets/common.php:737 includes/widgets/divider.php:456
+#: includes/widgets/divider.php:744 includes/widgets/divider.php:884
+#: includes/widgets/heading.php:184 includes/widgets/icon-box.php:472
+#: includes/widgets/icon-list.php:246 includes/widgets/icon-list.php:453
+#: includes/widgets/icon.php:175 includes/widgets/image-box.php:406
+#: includes/widgets/image-carousel.php:529
+#: includes/widgets/image-carousel.php:630
+#: includes/widgets/image-gallery.php:287 includes/widgets/image.php:142
+#: includes/widgets/image.php:535 includes/widgets/social-icons.php:305
+#: includes/widgets/star-rating.php:178 includes/widgets/tabs.php:175
+#: includes/widgets/tabs.php:205 includes/widgets/tabs.php:368
+#: includes/widgets/testimonial.php:194 includes/widgets/text-editor.php:196
+#: includes/widgets/video.php:796 modules/shapes/widgets/text-path.php:159
+msgid "Center"
+msgstr "Tengah"
+
+#: core/kits/documents/tabs/settings-lightbox.php:163
+#: core/kits/documents/tabs/theme-style-buttons.php:99
+#: core/kits/documents/tabs/theme-style-buttons.php:174
+#: core/kits/documents/tabs/theme-style-form-fields.php:177
+#: core/kits/documents/tabs/theme-style-typography.php:56
+#: includes/elements/column.php:629 includes/elements/section.php:1107
+#: includes/widgets/alert.php:221 includes/widgets/alert.php:261
+#: includes/widgets/button.php:310 includes/widgets/button.php:352
+#: includes/widgets/counter.php:230 includes/widgets/counter.php:273
+#: includes/widgets/heading.php:225 includes/widgets/icon-list.php:481
+#: includes/widgets/image-carousel.php:652
+#: includes/widgets/image-gallery.php:312 includes/widgets/image.php:557
+#: includes/widgets/progress.php:280 includes/widgets/star-rating.php:213
+#: includes/widgets/testimonial.php:229 includes/widgets/testimonial.php:327
+#: includes/widgets/testimonial.php:372 includes/widgets/text-editor.php:217
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: includes/elements/section.php:531 includes/elements/section.php:539
+msgid "Structure"
+msgstr "Struktur"
+
+#: includes/elements/section.php:421
+msgid "Column Position"
+msgstr "Kedudukan Lajur"
+
+#: includes/elements/section.php:337 includes/elements/section.php:386
+msgid "Min Height"
+msgstr "Tinggi Min"
+
+#: includes/controls/image-dimensions.php:102 includes/elements/section.php:331
+#: includes/elements/section.php:380 includes/elements/section.php:1018
+#: includes/widgets/google-maps.php:165 includes/widgets/icon-list.php:339
+#: includes/widgets/image.php:325 includes/widgets/progress.php:208
+msgid "Height"
+msgstr "Tinggi"
+
+#: includes/elements/section.php:288
+msgid "Wide"
+msgstr "Lebar"
+
+#: includes/elements/section.php:286
+msgid "Narrow"
+msgstr "Sempit"
+
+#: includes/elements/section.php:285
+msgid "No Gap"
+msgstr "Tiada Jurang"
+
+#: includes/elements/section.php:280 includes/widgets/text-editor.php:149
+msgid "Columns Gap"
+msgstr "Jurang Lajur"
+
+#: core/kits/documents/tabs/settings-layout.php:55
+#: includes/elements/section.php:245 includes/widgets/video.php:773
+msgid "Content Width"
+msgstr "Lebar Kandungan"
+
+#: includes/elements/section.php:250 includes/widgets/common.php:675
+#: includes/widgets/icon-list.php:195
+msgid "Full Width"
+msgstr "Kelebaran Penuh"
+
+#: includes/elements/section.php:249
+msgid "Boxed"
+msgstr "Berkotak"
+
+#: includes/controls/image-dimensions.php:96 includes/elements/section.php:259
+#: includes/elements/section.php:989 includes/widgets/common.php:670
+#: includes/widgets/divider.php:421 includes/widgets/icon-list.php:321
+#: includes/widgets/image-box.php:248 includes/widgets/image.php:255
+#: modules/shapes/widgets/text-path.php:519
+#: modules/shapes/widgets/text-path.php:585
+msgid "Width"
+msgstr "Lebar"
+
+#: core/kits/documents/tabs/settings-layout.php:24
+#: includes/elements/column.php:111 includes/elements/section.php:227
+#: includes/managers/controls.php:303 includes/widgets/icon-list.php:95
+#: assets/js/editor.js:24233
+msgid "Layout"
+msgstr "Susun Atur"
+
+#: core/schemes/typography.php:95
+msgid "Body Text"
+msgstr "Teks Badan"
+
+#: core/schemes/typography.php:93
+msgid "Primary Headline"
+msgstr "Tajuk Utama"
+
+#: core/kits/documents/tabs/global-colors.php:93
+#: core/kits/documents/tabs/global-typography.php:144 core/schemes/color.php:96
+msgid "Accent"
+msgstr "Aksen"
+
+#: core/kits/documents/tabs/global-colors.php:88
+#: core/kits/documents/tabs/global-typography.php:137 core/schemes/color.php:95
+#: includes/widgets/button.php:136 includes/widgets/divider.php:483
+#: includes/widgets/divider.php:510 includes/widgets/divider.php:700
+#: includes/widgets/icon-list.php:120 includes/widgets/icon-list.php:473
+#: modules/shapes/widgets/text-path.php:93
+#: modules/shapes/widgets/text-path.php:296
+msgid "Text"
+msgstr "Teks"
+
+#: core/kits/documents/tabs/global-colors.php:83
+#: core/kits/documents/tabs/global-typography.php:130 core/schemes/color.php:94
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: core/schemes/typography.php:94
+msgid "Secondary Headline"
+msgstr "Tajuk Sekunder"
+
+#: core/kits/documents/tabs/global-colors.php:78
+#: core/kits/documents/tabs/global-typography.php:123 core/schemes/color.php:93
+msgid "Primary"
+msgstr "Utama"
+
+#: includes/managers/elements.php:313
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/widgets/image-carousel.php:160
+#: includes/widgets/image-carousel.php:374
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: includes/managers/elements.php:272
+msgid "Basic"
+msgstr "Asas"
+
+#: includes/elements/section.php:1338
+msgid "Visibility"
+msgstr "Keterlihatan"
+
+#: includes/widgets/video.php:792
+msgid "Content Position"
+msgstr "Kedudukan Kandungan"
+
+#: includes/elements/column.php:168 includes/elements/section.php:427
+#: includes/elements/section.php:450 includes/widgets/icon-box.php:497
+#: includes/widgets/image-box.php:431
+msgid "Middle"
+msgstr "Tengah"
+
+#: includes/elements/section.php:425
+msgid "Stretch"
+msgstr "Regang"
+
+#: modules/system-info/module.php:181
+msgid "Download System Info"
+msgstr "Muat Turun Maklumat Sistem"
+
+#: modules/system-info/module.php:159
+msgid "Copy & Paste Info"
+msgstr "Maklumat Salin & Tampal"
+
+#: core/common/modules/finder/categories/general.php:51
+#: modules/system-info/module.php:128 modules/system-info/module.php:157
+msgid "System Info"
+msgstr "Maklumat Sistem"
+
+#: includes/editor-templates/templates.php:109
+#: includes/widgets/testimonial.php:131 includes/widgets/testimonial.php:319
+msgid "Name"
+msgstr "Nama"
+
+#: includes/controls/switcher.php:74 includes/managers/icons.php:340
+#: includes/widgets/audio.php:127 includes/widgets/image-carousel.php:151
+#: includes/widgets/image-carousel.php:209
+#: includes/widgets/image-carousel.php:258
+#: includes/widgets/image-carousel.php:272
+#: includes/widgets/image-carousel.php:290
+#: includes/widgets/image-carousel.php:322
+#: includes/widgets/image-gallery.php:148 includes/widgets/image.php:225
+#: assets/js/editor.js:10382
+msgid "No"
+msgstr "Tidak"
+
+#: includes/controls/switcher.php:75 includes/managers/icons.php:341
+#: includes/widgets/audio.php:126 includes/widgets/image-carousel.php:152
+#: includes/widgets/image-carousel.php:208
+#: includes/widgets/image-carousel.php:257
+#: includes/widgets/image-carousel.php:271
+#: includes/widgets/image-carousel.php:289
+#: includes/widgets/image-carousel.php:321
+#: includes/widgets/image-gallery.php:147 includes/widgets/image.php:224
+#: assets/js/editor.js:10381
+msgid "Yes"
+msgstr "Ya"
+
+#: core/role-manager/role-manager.php:62
+msgid "Exclude Roles"
+msgstr "Kecualikan Peranan"
+
+#: includes/settings/settings.php:442
+msgid "Post Types"
+msgstr "Jenis Kiriman"
+
+#: core/base/document.php:1493
+#: core/common/modules/finder/categories/settings.php:46
+msgid "General Settings"
+msgstr "Tetapan Am"
+
+#: core/schemes/typography.php:96
+msgid "Accent Text"
+msgstr "Teks Aksen"
+
+#: includes/widgets/alert.php:100 includes/widgets/button.php:125
+#: includes/widgets/progress.php:115
+msgid "Success"
+msgstr "Berjaya"
+
+#: includes/editor-templates/templates.php:113
+#: includes/elements/section.php:964
+#: includes/template-library/sources/local.php:1585
+#: includes/widgets/alert.php:95 includes/widgets/button.php:119
+#: includes/widgets/progress.php:109
+msgid "Type"
+msgstr "Jenis"
+
+#: includes/widgets/alert.php:45 includes/widgets/alert.php:88
+#: includes/widgets/alert.php:164
+msgid "Alert"
+msgstr "Amaran"
+
+#: includes/widgets/accordion.php:312 includes/widgets/accordion.php:402
+#: includes/widgets/tabs.php:326 includes/widgets/toggle.php:340
+#: includes/widgets/toggle.php:430
+msgid "Active Color"
+msgstr "Warna Aktif"
+
+#: includes/widgets/accordion.php:264 includes/widgets/alert.php:183
+#: includes/widgets/button.php:380 includes/widgets/social-icons.php:524
+#: includes/widgets/tabs.php:280 includes/widgets/toggle.php:267
+msgid "Border Color"
+msgstr "Warna Sempadan"
+
+#: includes/widgets/accordion.php:112
+msgid "Accordion Content"
+msgstr "Kandungan Akordion"
+
+#: includes/widgets/accordion.php:99
+msgid "Accordion Title"
+msgstr "Tajuk Akordion"
+
+#: includes/widgets/accordion.php:129
+msgid "Accordion #2"
+msgstr "Akordion #2"
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion #1"
+msgstr "Akordion #1"
+
+#: includes/widgets/accordion.php:120
+msgid "Accordion Items"
+msgstr "Butiran Akordion"
+
+#: includes/widgets/accordion.php:45 includes/widgets/accordion.php:88
+#: includes/widgets/accordion.php:237
+msgid "Accordion"
+msgstr "Akordion"
+
+#: includes/elements/column.php:886 includes/elements/section.php:1382
+#: includes/widgets/common.php:1038
+msgid "Hide On Mobile"
+msgstr "Sembunyikan Pada Mobile"
+
+#: includes/elements/column.php:873 includes/elements/section.php:1369
+#: includes/widgets/common.php:1025
+msgid "Hide On Tablet"
+msgstr "Sembunyikan Pada Tablet"
+
+#: includes/widgets/accordion.php:140 includes/widgets/alert.php:153
+#: includes/widgets/audio.php:251 includes/widgets/button.php:247
+#: includes/widgets/counter.php:211 includes/widgets/divider.php:501
+#: includes/widgets/divider.php:790 includes/widgets/google-maps.php:187
+#: includes/widgets/heading.php:206 includes/widgets/icon-box.php:108
+#: includes/widgets/icon.php:123 includes/widgets/image-box.php:206
+#: includes/widgets/image-carousel.php:235
+#: includes/widgets/image-gallery.php:172 includes/widgets/image.php:236
+#: includes/widgets/progress.php:164 includes/widgets/social-icons.php:324
+#: includes/widgets/spacer.php:133 includes/widgets/tabs.php:143
+#: includes/widgets/testimonial.php:209 includes/widgets/text-editor.php:263
+#: includes/widgets/toggle.php:144 includes/widgets/video.php:533
+msgid "View"
+msgstr "Lihat"
+
+#: includes/elements/column.php:860 includes/elements/section.php:1356
+#: includes/widgets/common.php:1012
+msgid "Hide On Desktop"
+msgstr "Sembunyikan Pada Desktop"
+
+#: core/kits/documents/tabs/settings-lightbox.php:103
+#: core/kits/documents/tabs/settings-lightbox.php:113
+#: core/kits/documents/tabs/settings-lightbox.php:120
+#: includes/compatibility.php:176 includes/widgets/alert.php:253
+#: includes/widgets/icon-box.php:568 includes/widgets/image-box.php:502
+#: includes/widgets/image-carousel.php:227
+msgid "Description"
+msgstr "Keterangan"
+
+#: core/base/document.php:1501
+#: core/kits/documents/tabs/settings-lightbox.php:96
+#: core/kits/documents/tabs/settings-lightbox.php:100
+#: core/kits/documents/tabs/settings-lightbox.php:117
+#: includes/elements/column.php:120 includes/elements/section.php:236
+#: includes/widgets/accordion.php:279 includes/widgets/alert.php:213
+#: includes/widgets/common.php:123 includes/widgets/counter.php:197
+#: includes/widgets/counter.php:265 includes/widgets/heading.php:104
+#: includes/widgets/heading.php:111 includes/widgets/heading.php:217
+#: includes/widgets/icon-box.php:508 includes/widgets/image-box.php:442
+#: includes/widgets/image-carousel.php:225 includes/widgets/progress.php:95
+#: includes/widgets/star-rating.php:158 includes/widgets/star-rating.php:202
+#: includes/widgets/tabs.php:303 includes/widgets/testimonial.php:143
+#: includes/widgets/testimonial.php:364 includes/widgets/toggle.php:306
+msgid "Title"
+msgstr "Tajuk"
+
+#: core/kits/documents/tabs/settings-lightbox.php:130
+#: core/kits/documents/tabs/theme-style-form-fields.php:189
+#: includes/widgets/alert.php:172 includes/widgets/image.php:572
+#: includes/widgets/progress.php:197 includes/widgets/tabs.php:291
+#: includes/widgets/video.php:739
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: includes/elements/section.php:1360 includes/elements/section.php:1373
+#: includes/elements/section.php:1386 includes/widgets/alert.php:145
+#: includes/widgets/audio.php:154 includes/widgets/audio.php:165
+#: includes/widgets/audio.php:176 includes/widgets/audio.php:187
+#: includes/widgets/audio.php:201 includes/widgets/audio.php:212
+#: includes/widgets/audio.php:223 includes/widgets/audio.php:234
+#: includes/widgets/counter.php:174 includes/widgets/image-gallery.php:268
+#: includes/widgets/progress.php:143 includes/widgets/video.php:334
+#: includes/widgets/video.php:349 includes/widgets/video.php:376
+#: includes/widgets/video.php:454 includes/widgets/video.php:468
+#: includes/widgets/video.php:482 includes/widgets/video.php:508
+#: includes/widgets/video.php:553
+msgid "Hide"
+msgstr "Sembunyi"
+
+#: includes/elements/section.php:1361 includes/elements/section.php:1374
+#: includes/elements/section.php:1387 includes/widgets/alert.php:144
+#: includes/widgets/audio.php:155 includes/widgets/audio.php:166
+#: includes/widgets/audio.php:177 includes/widgets/audio.php:188
+#: includes/widgets/audio.php:202 includes/widgets/audio.php:213
+#: includes/widgets/audio.php:224 includes/widgets/audio.php:235
+#: includes/widgets/counter.php:173 includes/widgets/image-gallery.php:267
+#: includes/widgets/progress.php:142 includes/widgets/video.php:335
+#: includes/widgets/video.php:350 includes/widgets/video.php:377
+#: includes/widgets/video.php:455 includes/widgets/video.php:469
+#: includes/widgets/video.php:483 includes/widgets/video.php:509
+#: includes/widgets/video.php:554
+msgid "Show"
+msgstr "Tunjukkan"
+
+#: includes/widgets/accordion.php:97 includes/widgets/alert.php:111
+#: includes/widgets/icon-box.php:141 includes/widgets/image-box.php:118
+#: includes/widgets/tabs.php:98 includes/widgets/toggle.php:98
+msgid "Title & Description"
+msgstr "Tajuk & Keterangan"
+
+#: includes/widgets/alert.php:102 includes/widgets/button.php:127
+#: includes/widgets/progress.php:117
+msgid "Danger"
+msgstr "Bahaya"
+
+#: includes/widgets/alert.php:101 includes/widgets/button.php:126
+#: includes/widgets/progress.php:116
+msgid "Warning"
+msgstr "Amaran"
+
+#: core/dynamic-tags/tag.php:102 includes/widgets/button.php:219
+msgid "After"
+msgstr "Selepas"
+
+#: core/dynamic-tags/tag.php:95 includes/widgets/button.php:218
+msgid "Before"
+msgstr "Sebelum"
+
+#: includes/widgets/button.php:214 includes/widgets/icon-box.php:184
+msgid "Icon Position"
+msgstr "Kedudukan Ikon"
+
+#: includes/widgets/accordion.php:149 includes/widgets/accordion.php:359
+#: includes/widgets/button.php:203 includes/widgets/divider.php:487
+#: includes/widgets/divider.php:548 includes/widgets/divider.php:779
+#: includes/widgets/icon-box.php:95 includes/widgets/icon-box.php:241
+#: includes/widgets/icon-list.php:134 includes/widgets/icon-list.php:388
+#: includes/widgets/icon.php:44 includes/widgets/icon.php:103
+#: includes/widgets/icon.php:110 includes/widgets/icon.php:195
+#: includes/widgets/social-icons.php:94 includes/widgets/social-icons.php:335
+#: includes/widgets/star-rating.php:123 includes/widgets/toggle.php:153
+#: includes/widgets/toggle.php:387
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/widgets/button.php:192 includes/widgets/common.php:487
+#: includes/widgets/divider.php:617 includes/widgets/divider.php:805
+#: includes/widgets/heading.php:139 includes/widgets/icon-box.php:373
+#: includes/widgets/icon-list.php:425 includes/widgets/icon.php:298
+#: includes/widgets/image-carousel.php:414
+#: includes/widgets/image-carousel.php:477
+#: includes/widgets/social-icons.php:385 includes/widgets/star-rating.php:274
+#: includes/widgets/text-editor.php:316 includes/widgets/video.php:686
+#: modules/shapes/widgets/text-path.php:229
+msgid "Size"
+msgstr "Saiz"
+
+#: includes/widgets/accordion.php:370 includes/widgets/button.php:164
+#: includes/widgets/divider.php:448 includes/widgets/heading.php:176
+#: includes/widgets/icon-box.php:464 includes/widgets/icon-list.php:238
+#: includes/widgets/icon-list.php:445 includes/widgets/icon.php:167
+#: includes/widgets/image-box.php:398 includes/widgets/image-carousel.php:622
+#: includes/widgets/image-gallery.php:279 includes/widgets/image.php:134
+#: includes/widgets/image.php:527 includes/widgets/social-icons.php:297
+#: includes/widgets/star-rating.php:170 includes/widgets/tabs.php:167
+#: includes/widgets/tabs.php:197 includes/widgets/tabs.php:360
+#: includes/widgets/testimonial.php:185 includes/widgets/text-editor.php:188
+#: includes/widgets/toggle.php:398 modules/shapes/widgets/text-path.php:150
+msgid "Alignment"
+msgstr "Penjajaran"
+
+#: includes/widgets/heading.php:148
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/widgets/heading.php:147
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/button.php:95 includes/widgets/heading.php:146
+msgid "Large"
+msgstr "Besar"
+
+#: includes/widgets/button.php:93 includes/widgets/heading.php:144
+msgid "Small"
+msgstr "Kecil"
+
+#: includes/widgets/button.php:46 includes/widgets/button.php:112
+#: includes/widgets/button.php:274
+msgid "Button"
+msgstr "Butang"
+
+#: core/common/modules/finder/categories/edit.php:30
+#: includes/controls/popover-toggle.php:69
+msgid "Edit"
+msgstr "Sunting"
+
+#: includes/widgets/divider.php:46 includes/widgets/divider.php:356
+#: includes/widgets/divider.php:515 includes/widgets/divider.php:565
+#: includes/widgets/icon-list.php:261
+msgid "Divider"
+msgstr "Pembahagi"
+
+#: includes/widgets/counter.php:222
+msgid "Number"
+msgstr "Nombor"
+
+#: includes/widgets/counter.php:121
+msgid "Ending Number"
+msgstr "Nombor Akhir"
+
+#: includes/widgets/counter.php:109
+msgid "Starting Number"
+msgstr "Nombor Permulaan"
+
+#: includes/controls/media.php:170 includes/widgets/image-box.php:95
+#: includes/widgets/image.php:111 includes/widgets/testimonial.php:108
+#: includes/widgets/video.php:562
+msgid "Choose Image"
+msgstr "Pilih Imej"
+
+#: includes/widgets/common.php:456 includes/widgets/image-box.php:217
+#: includes/widgets/image-carousel.php:513 includes/widgets/image.php:45
+#: includes/widgets/image.php:104 includes/widgets/image.php:247
+#: includes/widgets/testimonial.php:266
+msgid "Image"
+msgstr "Imej"
+
+#: includes/elements/column.php:481 includes/elements/section.php:809
+#: includes/widgets/common.php:320
+msgid "Border"
+msgstr "Sempadan"
+
+#: includes/widgets/google-maps.php:126
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, London, United Kingdom"
+
+#: includes/widgets/google-maps.php:103 includes/widgets/google-maps.php:198
+msgid "Map"
+msgstr "Peta"
+
+#: core/kits/documents/tabs/theme-style-images.php:21
+#: core/kits/documents/tabs/theme-style-images.php:51
+#: includes/widgets/image-gallery.php:183
+msgid "Images"
+msgstr "Imej"
+
+#: includes/widgets/image-gallery.php:163
+msgid "Random"
+msgstr "Rawak"
+
+#: includes/widgets/image-carousel.php:181
+#: includes/widgets/image-gallery.php:132 includes/widgets/image.php:194
+msgid "Media File"
+msgstr "Fail Media"
+
+#: includes/widgets/image-gallery.php:133
+msgid "Attachment Page"
+msgstr "Lampiran Halaman"
+
+#: includes/widgets/image-gallery.php:87
+msgid "Image Gallery"
+msgstr "Galeri Imej"
+
+#: includes/widgets/divider.php:677 includes/widgets/star-rating.php:246
+msgid "Gap"
+msgstr "Jurang"
+
+#: includes/widgets/divider.php:592 includes/widgets/icon-list.php:297
+msgid "Weight"
+msgstr "Berat"
+
+#: includes/widgets/spacer.php:42 includes/widgets/spacer.php:101
+msgid "Spacer"
+msgstr "Penjarak"
+
+#: includes/widgets/icon-list.php:178
+msgid "List Item #3"
+msgstr "Senarai Butiran #3"
+
+#: includes/widgets/icon-list.php:171
+msgid "List Item #2"
+msgstr "Senarai Butiran #2"
+
+#: includes/widgets/icon-list.php:164
+msgid "List Item #1"
+msgstr "Senarai Butiran #1"
+
+#: includes/widgets/icon-list.php:45 includes/widgets/icon-list.php:88
+msgid "Icon List"
+msgstr "Senarai Ikon"
+
+#: includes/widgets/button.php:154 includes/widgets/icon-box.php:176
+#: includes/widgets/icon-list.php:152 includes/widgets/icon.php:160
+#: includes/widgets/image-box.php:153 includes/widgets/image-carousel.php:192
+#: includes/widgets/image.php:208 includes/widgets/social-icons.php:178
+#: includes/widgets/testimonial.php:160
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:78
+#: core/kits/documents/tabs/theme-style-typography.php:133
+#: core/kits/documents/tabs/theme-style-typography.php:163
+#: core/kits/documents/tabs/theme-style-typography.php:209
+#: includes/controls/box-shadow.php:104 includes/controls/text-shadow.php:97
+#: includes/elements/section.php:975 includes/widgets/accordion.php:298
+#: includes/widgets/accordion.php:390 includes/widgets/accordion.php:453
+#: includes/widgets/divider.php:576 includes/widgets/divider.php:711
+#: includes/widgets/icon-box.php:534 includes/widgets/icon-box.php:577
+#: includes/widgets/icon-list.php:368 includes/widgets/icon-list.php:396
+#: includes/widgets/image-box.php:468 includes/widgets/image-box.php:511
+#: includes/widgets/image-carousel.php:434
+#: includes/widgets/image-carousel.php:497 includes/widgets/progress.php:183
+#: includes/widgets/progress.php:240 includes/widgets/social-icons.php:185
+#: includes/widgets/social-icons.php:343 includes/widgets/star-rating.php:309
+#: includes/widgets/tabs.php:312 includes/widgets/tabs.php:397
+#: includes/widgets/toggle.php:326 includes/widgets/toggle.php:418
+#: includes/widgets/toggle.php:481 includes/widgets/video.php:671
+#: modules/shapes/widgets/text-path.php:389
+#: modules/shapes/widgets/text-path.php:413
+#: modules/shapes/widgets/text-path.php:487
+#: modules/shapes/widgets/text-path.php:507
+#: modules/shapes/widgets/text-path.php:553
+#: modules/shapes/widgets/text-path.php:573 assets/js/editor.js:36609
+#: assets/js/editor.js:36655
+msgid "Color"
+msgstr "Warna"
+
+#: includes/widgets/button.php:230
+msgid "Icon Spacing"
+msgstr "Jarak Ikon"
+
+#: includes/widgets/icon-box.php:45 includes/widgets/icon-box.php:88
+msgid "Icon Box"
+msgstr "Kotak Ikon"
+
+#: includes/widgets/html.php:85
+msgid "HTML Code"
+msgstr "Kod HTML"
+
+#: includes/widgets/html.php:42
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/elements/column.php:240 includes/elements/section.php:518
+#: includes/widgets/divider.php:525 includes/widgets/heading.php:156
+msgid "HTML Tag"
+msgstr "Tag HTML"
+
+#: includes/widgets/alert.php:113 includes/widgets/heading.php:116
+#: includes/widgets/icon-box.php:147 includes/widgets/image-box.php:124
+#: includes/widgets/progress.php:100
+msgid "Enter your title"
+msgstr "Masukkan tajuk anda"
+
+#: includes/widgets/heading.php:45
+msgid "Heading"
+msgstr "Pengepala"
+
+#: includes/widgets/image-carousel.php:565
+#: includes/widgets/image-gallery.php:208
+msgid "Image Spacing"
+msgstr "Jarak Imej"
+
+#: includes/widgets/testimonial.php:277
+msgid "Image Size"
+msgstr "Saiz Imej"
+
+#: includes/widgets/image-box.php:45 includes/widgets/image-box.php:88
+msgid "Image Box"
+msgstr "Kotak Imej"
+
+#: includes/widgets/social-icons.php:485
+msgid "Icon Hover"
+msgstr "Pengapungan Ikon"
+
+#: includes/widgets/accordion.php:245 includes/widgets/divider.php:939
+#: includes/widgets/icon-box.php:425 includes/widgets/icon.php:358
+#: includes/widgets/tabs.php:260 includes/widgets/text-editor.php:377
+#: includes/widgets/toggle.php:249
+msgid "Border Width"
+msgstr "Lebar Sempadan"
+
+#: includes/widgets/divider.php:917 includes/widgets/icon-box.php:410
+#: includes/widgets/icon.php:336 modules/shapes/widgets/text-path.php:265
+msgid "Rotate"
+msgstr "Putar"
+
+#: includes/widgets/divider.php:859 includes/widgets/icon-box.php:284
+#: includes/widgets/icon-box.php:322 includes/widgets/icon.php:229
+#: includes/widgets/icon.php:269 includes/widgets/social-icons.php:212
+#: includes/widgets/social-icons.php:370 includes/widgets/social-icons.php:508
+#: includes/widgets/text-editor.php:293
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: includes/widgets/divider.php:842 includes/widgets/icon-box.php:268
+#: includes/widgets/icon-box.php:309 includes/widgets/icon.php:212
+#: includes/widgets/icon.php:255 includes/widgets/social-icons.php:198
+#: includes/widgets/social-icons.php:356 includes/widgets/social-icons.php:493
+#: includes/widgets/text-editor.php:278
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: includes/widgets/common.php:64 includes/widgets/icon-box.php:126
+#: includes/widgets/icon.php:141 includes/widgets/social-icons.php:263
+#: modules/shapes/module.php:22
+msgid "Circle"
+msgstr "Bulatan"
+
+#: includes/widgets/common.php:443 includes/widgets/icon-box.php:123
+#: includes/widgets/icon.php:138 includes/widgets/social-icons.php:257
+msgid "Shape"
+msgstr "Bentuk"
+
+#: includes/widgets/divider.php:795 includes/widgets/icon-box.php:113
+#: includes/widgets/icon.php:128 includes/widgets/text-editor.php:268
+msgid "Framed"
+msgstr "Dirangka"
+
+#: includes/widgets/divider.php:794 includes/widgets/icon-box.php:112
+#: includes/widgets/icon.php:127 includes/widgets/text-editor.php:267
+msgid "Stacked"
+msgstr "Disusun"
+
+#: includes/widgets/icon-list.php:508
+msgid "Text Indent"
+msgstr "Inden Teks"
+
+#: includes/widgets/sidebar.php:42 includes/widgets/sidebar.php:102
+msgid "Sidebar"
+msgstr "Palang sisi"
+
+#: includes/widgets/progress.php:272
+msgid "Title Style"
+msgstr "Gaya Tajuk"
+
+#: includes/widgets/progress.php:125
+msgid "Percentage"
+msgstr "Peratusan"
+
+#: includes/widgets/menu-anchor.php:96
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "ID ini akan menjadi ID CSS yang perlu anda gunakan dalam halaman anda sendiri, Tanpa #."
+
+#: includes/widgets/image-box.php:161 includes/widgets/testimonial.php:167
+msgid "Image Position"
+msgstr "Kedudukan Imej"
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/video.php:592 includes/widgets/video.php:658
+msgid "Play Icon"
+msgstr "Ikon Main"
+
+#: includes/widgets/video.php:544 includes/widgets/video.php:551
+msgid "Image Overlay"
+msgstr "Imej Tindihan"
+
+#: includes/widgets/video.php:332
+msgid "Player Controls"
+msgstr "Kawalan Pemain"
+
+#: includes/widgets/video.php:436
+msgid "Suggested Videos"
+msgstr "Video Yang Dicadangkan"
+
+#: includes/widgets/video.php:114
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/widgets/toggle.php:113
+msgid "Toggle Content"
+msgstr "Togol Kandungan"
+
+#: includes/widgets/toggle.php:100
+msgid "Toggle Title"
+msgstr "Togol Tajuk"
+
+#: includes/widgets/toggle.php:133
+msgid "Toggle #2"
+msgstr "Togol #2"
+
+#: includes/widgets/toggle.php:129
+msgid "Toggle #1"
+msgstr "Togol #1"
+
+#: includes/widgets/toggle.php:46 includes/widgets/toggle.php:89
+#: includes/widgets/toggle.php:241
+msgid "Toggle"
+msgstr "Togol"
+
+#: includes/widgets/text-editor.php:46 includes/widgets/text-editor.php:105
+#: includes/widgets/text-editor.php:180
+msgid "Text Editor"
+msgstr "Penyunting Teks"
+
+#: includes/widgets/tabs.php:113 includes/widgets/tabs.php:114
+msgid "Tab Content"
+msgstr "Kandungan Tab"
+
+#: includes/widgets/tabs.php:100 includes/widgets/tabs.php:101
+msgid "Tab Title"
+msgstr "Tajuk Tab"
+
+#: includes/widgets/tabs.php:132
+msgid "Tab #2"
+msgstr "Tab #2"
+
+#: includes/widgets/tabs.php:128
+msgid "Tab #1"
+msgstr "Tab #1"
+
+#: includes/widgets/tabs.php:123
+msgid "Tabs Items"
+msgstr "Butiran Tab"
+
+#: includes/widgets/tabs.php:46 includes/widgets/tabs.php:89
+#: includes/widgets/tabs.php:229
+msgid "Tabs"
+msgstr "Tab"
+
+#: includes/widgets/image-carousel.php:165
+#: includes/widgets/image-carousel.php:385
+msgid "Arrows"
+msgstr "Anak Panah"
+
+#: includes/widgets/image-carousel.php:335
+msgid "Slide"
+msgstr "Lungsur"
+
+#: includes/widgets/sidebar.php:89 includes/widgets/sidebar.php:107
+msgid "Choose Sidebar"
+msgstr "Pilih Palang Sisi"
+
+#: includes/widgets/sidebar.php:87
+msgid "No sidebars were found"
+msgstr "Tiada palang sisi ditemui"
+
+#: includes/elements/column.php:702 includes/elements/section.php:1179
+#: includes/widgets/common.php:132
+msgid "Margin"
+msgstr "Margin"
+
+#: includes/widgets/image-carousel.php:267
+msgid "Pause on Hover"
+msgstr "Jeda pada Apung"
+
+#: includes/widgets/menu-anchor.php:86
+msgid "Anchor"
+msgstr "Labuh"
+
+#: includes/widgets/video.php:631
+msgid "Aspect Ratio"
+msgstr "Nisbah Bidang"
+
+#: includes/widgets/audio.php:144 includes/widgets/image-carousel.php:253
+#: includes/widgets/video.php:277
+msgid "Autoplay"
+msgstr "Automain"
+
+#: includes/widgets/image-carousel.php:302
+msgid "Autoplay Speed"
+msgstr "Laju Automain"
+
+#: includes/widgets/progress.php:155
+msgid "e.g. Web Designer"
+msgstr "cth. Pereka Web"
+
+#: includes/widgets/icon-list.php:123 includes/widgets/icon-list.php:124
+msgid "List Item"
+msgstr "Senari Butiran"
+
+#: includes/controls/gallery.php:88 includes/widgets/image-carousel.php:95
+#: includes/widgets/image-gallery.php:94
+msgid "Add Images"
+msgstr "Tambah Imej"
+
+#: includes/widgets/google-maps.php:44
+msgid "Google Maps"
+msgstr "Peta Google"
+
+#: includes/widgets/counter.php:133
+msgid "Number Prefix"
+msgstr "Nombor Awalan"
+
+#: includes/controls/groups/background.php:633
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr "Sandaran Latar Belakang"
+
+#: includes/widgets/toggle.php:124
+msgid "Toggle Items"
+msgstr "Togol Butiran"
+
+#: includes/widgets/menu-anchor.php:95
+msgid "For Example: About"
+msgstr "Sebagai Contoh: Tentang"
+
+#: includes/widgets/progress.php:138
+msgid "Display Percentage"
+msgstr "Papar Peratus"
+
+#: includes/widgets/counter.php:203 includes/widgets/counter.php:204
+msgid "Cool Number"
+msgstr "Nombor Menarik"
+
+#: includes/widgets/counter.php:152
+msgid "Plus"
+msgstr "Tambah"
+
+#: includes/widgets/progress.php:150 includes/widgets/progress.php:231
+msgid "Inner Text"
+msgstr "Teks Dalaman"
+
+#: includes/widgets/image-carousel.php:119
+msgid "Slides to Show"
+msgstr "Pelungsur untuk Ditunjukkan"
+
+#: includes/widgets/menu-anchor.php:43
+msgid "Menu Anchor"
+msgstr "Labuh Menu"
+
+#: includes/widgets/button.php:180 includes/widgets/heading.php:192
+#: includes/widgets/icon-box.php:480 includes/widgets/image-box.php:414
+#: includes/widgets/image-carousel.php:638
+#: includes/widgets/image-gallery.php:295 includes/widgets/image.php:543
+#: includes/widgets/star-rating.php:186 includes/widgets/tabs.php:183
+#: includes/widgets/tabs.php:213 includes/widgets/text-editor.php:204
+msgid "Justified"
+msgstr "Dilaraskan"
+
+#: includes/widgets/divider.php:321 includes/widgets/icon-list.php:279
+msgid "Double"
+msgstr "Berganda"
+
+#: includes/widgets/progress.php:156
+msgid "Web Designer"
+msgstr "Pereka Laman Sesawang"
+
+#: core/admin/admin-notices.php:223
+msgid "Sure! I'd love to help"
+msgstr "Pasti! Saya sedia untuk membantu"
+
+#: includes/elements/column.php:129
+msgid "Column Width"
+msgstr "Lebar Kolum"
+
+#: includes/editor-templates/panel-elements.php:34
+msgid "Search Widget..."
+msgstr "Carian Widget..."
+
+#: core/schemes/color.php:284
+msgid "Color Palette"
+msgstr "Warna Palet"
+
+#: core/experiments/manager.php:281
+#: core/settings/editor-preferences/model.php:129
+#: includes/base/widget-base.php:265 includes/controls/animation.php:146
+#: includes/controls/font.php:67 includes/controls/groups/background.php:714
+#: includes/controls/groups/background.php:733
+#: includes/controls/groups/typography.php:132
+#: includes/controls/groups/typography.php:151
+#: includes/controls/groups/typography.php:164
+#: includes/controls/groups/typography.php:176
+#: includes/editor-templates/panel.php:206 includes/elements/column.php:166
+#: includes/elements/column.php:194 includes/elements/column.php:234
+#: includes/elements/section.php:284 includes/elements/section.php:335
+#: includes/elements/section.php:384 includes/elements/section.php:448
+#: includes/elements/section.php:476 includes/elements/section.php:512
+#: includes/settings/settings.php:556 includes/widgets/button.php:123
+#: includes/widgets/common.php:674 includes/widgets/common.php:775
+#: includes/widgets/divider.php:793 includes/widgets/heading.php:143
+#: includes/widgets/icon-box.php:111 includes/widgets/icon-list.php:100
+#: includes/widgets/icon.php:126 includes/widgets/image-carousel.php:122
+#: includes/widgets/image-carousel.php:135
+#: includes/widgets/image-carousel.php:207
+#: includes/widgets/image-carousel.php:552
+#: includes/widgets/image-gallery.php:146
+#: includes/widgets/image-gallery.php:162
+#: includes/widgets/image-gallery.php:194 includes/widgets/image.php:223
+#: includes/widgets/image.php:362 includes/widgets/progress.php:113
+#: includes/widgets/text-editor.php:131 includes/widgets/text-editor.php:266
+#: modules/page-templates/module.php:296
+#: modules/shapes/widgets/text-path.php:181 assets/js/editor.js:34036
+#: assets/js/editor.js:34048
+msgid "Default"
+msgstr "Lalai"
+
+#: includes/elements/section.php:347 includes/elements/section.php:396
+msgid "Minimum Height"
+msgstr "Tinggi Minimum"
+
+#: includes/elements/section.php:336 includes/elements/section.php:385
+msgid "Fit To Screen"
+msgstr "Muat untuk Skrin"
+
+#: includes/controls/groups/typography.php:147
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "Tukar"
+
+#: core/settings/editor-preferences/model.php:132
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:4242
+msgid "Desktop"
+msgstr "Desktop"
+
+#: core/schemes/color.php:145
+msgid "More Palettes"
+msgstr "Palet Tambahan"
+
+#: includes/elements/column.php:753 includes/elements/section.php:1237
+#: includes/widgets/common.php:184
+msgid "CSS Classes"
+msgstr "Klas CSS"
+
+#: includes/widgets/alert.php:99 includes/widgets/button.php:124
+#: includes/widgets/progress.php:114 assets/js/app-packages.js:14650
+#: assets/js/kit-library.4eda348f8f5f0f19b874.bundle.js:3212
+msgid "Info"
+msgstr "Info"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:153
+#: core/kits/documents/tabs/theme-style-buttons.php:228
+#: core/kits/documents/tabs/theme-style-form-fields.php:222
+#: core/kits/documents/tabs/theme-style-images.php:83
+#: core/kits/documents/tabs/theme-style-images.php:154
+#: includes/elements/column.php:506 includes/elements/column.php:543
+#: includes/elements/section.php:833 includes/elements/section.php:869
+#: includes/widgets/button.php:415 includes/widgets/common.php:345
+#: includes/widgets/common.php:382 includes/widgets/divider.php:953
+#: includes/widgets/icon-box.php:439 includes/widgets/icon.php:372
+#: includes/widgets/image-box.php:276 includes/widgets/image-carousel.php:597
+#: includes/widgets/image-gallery.php:241 includes/widgets/image.php:491
+#: includes/widgets/progress.php:219 includes/widgets/social-icons.php:471
+#: includes/widgets/testimonial.php:304 includes/widgets/text-editor.php:358
+msgid "Border Radius"
+msgstr "Radius Sempadan"
+
+#: includes/widgets/button.php:94 includes/widgets/heading.php:145
+msgid "Medium"
+msgstr "Sederhana"
+
+#: includes/widgets/counter.php:146
+msgid "Number Suffix"
+msgstr "Nombor Akhiran"
+
+#: core/kits/documents/tabs/settings-lightbox.php:101
+#: core/kits/documents/tabs/settings-lightbox.php:118
+#: includes/widgets/image-carousel.php:220
+#: includes/widgets/image-carousel.php:226
+#: includes/widgets/image-carousel.php:611
+#: includes/widgets/image-gallery.php:255 includes/widgets/image.php:159
+#: includes/widgets/image.php:516
+msgid "Caption"
+msgstr "Kapsyen"
+
+#: includes/widgets/icon-box.php:127 includes/widgets/icon.php:142
+#: includes/widgets/social-icons.php:262
+msgid "Square"
+msgstr "Persegi"
+
+#: includes/widgets/progress.php:45 includes/widgets/progress.php:88
+#: includes/widgets/progress.php:175
+msgid "Progress Bar"
+msgstr "Bar Progress"
+
+#: includes/controls/groups/typography.php:207
+msgctxt "Typography Control"
+msgid "Letter Spacing"
+msgstr "Ruangan Huruf"
+
+#: includes/controls/groups/typography.php:185
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr "Tinggi-Garisan"
+
+#: modules/system-info/module.php:161
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "Anda boleh salin info di bawah sebagai teks mudah dengan kekunci Ctrl+C / Ctrl+V"
+
+#: includes/widgets/alert.php:128
+msgid "I am a description. Click the edit button to change this text."
+msgstr "Saya adalah keterangan. Pilih butang sunting untuk ubah teks ini."
+
+#: includes/widgets/image-carousel.php:131
+msgid "Slides to Scroll"
+msgstr "Pelungsur untuk Ditatal"
+
+#: core/kits/documents/tabs/settings-lightbox.php:56
+#: includes/widgets/counter.php:45 includes/widgets/counter.php:102
+msgid "Counter"
+msgstr "Kiraan"
+
+#: includes/widgets/menu-anchor.php:93
+msgid "The ID of Menu Anchor."
+msgstr "ID untuk Menu Anchor"
+
+#. translators: %s: PHP version
+#: elementor.php:81
+msgid "Elementor requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Elementor memerlukan PHP versi %s+, pemalam pada masa ini TIDAK BERJALAN."
+
+#: includes/controls/groups/background.php:498
+msgctxt "Background Control"
+msgid "Width"
+msgstr "Lebar"
+
+#: includes/widgets/alert.php:140
+msgid "Dismiss Button"
+msgstr "Singkir Butang"
+
+#: core/common/modules/finder/categories/site.php:60
+msgid "Themes"
+msgstr "Tema"

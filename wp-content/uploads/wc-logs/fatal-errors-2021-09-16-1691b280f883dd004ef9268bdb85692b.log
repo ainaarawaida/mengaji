@@ -1,0 +1,81 @@
+2021-09-16T14:10:31+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:14:29+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:15:41+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:16:17+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:16:58+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:18:53+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:19:14+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:20:07+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+
+2021-09-16T14:20:29+00:00 CRITICAL Uncaught Error: Call to undefined method WCFM_Template::get_next_step_link() in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php:913
+Stack trace:
+#0 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(993): WCFM_Template->get_template('settings/wcfm-v...')
+#2 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-settings')
+#3 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 C:\laragon\www\mengaji\wp-includes\shortcodes.php(356): WCFM_Shortcode->wc_frontend in C:\laragon\www\mengaji\wp-content\plugins\wc-frontend-manager\views\settings\wcfm-view-wcfmmarketplace-settings.php on line 913
+

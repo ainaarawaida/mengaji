@@ -1,0 +1,760 @@
+{
+    "version": "0.4",
+    "title": "Hero Banner &#8211; Right Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-hero",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "19f22d4d",
+            "settings": {
+                "structure": "20",
+                "_title": "Banner",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "140",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "485e9f8",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_title": "Text",
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "3185277a",
+                            "settings": {
+                                "title": "Shelly",
+                                "header_size": "div",
+                                "align": "center",
+                                "title_color": "rgba(243, 115, 53, 0.1)",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 200,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "_position": "absolute",
+                                "_offset_y": {
+                                    "size": 218,
+                                    "unit": "px"
+                                },
+                                "_offset_x": {
+                                    "size": -518,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone",
+                                "_z_index": 1
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "772245ab",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_title": "Photos"
+                    },
+                    "elements": [
+                        {
+                            "id": "b05d134",
+                            "settings": {
+                                "structure": "20",
+                                "_title": "Content"
+                            },
+                            "elements": [
+                                {
+                                    "id": "46862c0c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_title": "Left_Sections"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "52d21e7c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/school-children-using-phone-at-school.jpg",
+                                                    "id": 181
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 5,
+                                                "image_custom_dimension": {
+                                                    "width": "250",
+                                                    "height": "250"
+                                                },
+                                                "align": "left",
+                                                "image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "249e1c61",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/photo-of-caucasian-young-woman-and-her-girl-kid-playing-around-.jpg",
+                                                    "id": 856
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "80",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 5,
+                                                "hide_mobile": "hidden-phone",
+                                                "_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "70",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "image_custom_dimension": {
+                                                    "width": "150",
+                                                    "height": "150"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4db94a86",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_title": "Right_Section"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "226ecb1f",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/kids-pulling-faces.jpg",
+                                                    "id": 857
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "220",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 5,
+                                                "hide_mobile": "hidden-phone",
+                                                "image_custom_dimension": {
+                                                    "width": "200",
+                                                    "height": "200"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "62a2f9b1",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/shelly.elipso.site\/wp-content\/uploads\/sites\/5\/2020\/07\/businesswoman-working-on-laptop-sitting-at-workplace-in-office.jpg",
+                                                    "id": 188
+                                                },
+                                                "image_size": "custom",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "140",
+                                                    "right": "120",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_z_index": 5,
+                                                "hide_mobile": "hidden-phone",
+                                                "image_custom_dimension": {
+                                                    "width": "200",
+                                                    "height": "200"
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "65f5eb54",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "60",
+                                    "right": "60",
+                                    "bottom": "60",
+                                    "left": "60",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "classic",
+                                "_background_color": "#F37335",
+                                "_background_color_b": "rgba(243, 115, 53, 0.32)",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": -8,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 29,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.299999999999999988897769753748434595763683319091796875,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "_title": "element_1",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 17,
+                                        "end": 100
+                                    }
+                                },
+                                "motion_fx_translateX_effect": "yes",
+                                "motion_fx_translateX_speed": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "motion_fx_blur_effect": "yes",
+                                "motion_fx_blur_level": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "motion_fx_motion_fx_mouse": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "12630719",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "classic",
+                                "_background_color": "#FDC830",
+                                "_background_color_b": "rgba(243, 115, 53, 0.32)",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": 467,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 325,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.200000000000000011102230246251565404236316680908203125,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "_title": "element_2",
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "47211a44",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "classic",
+                                "_background_color": "#FDC830",
+                                "_background_color_b": "rgba(243, 115, 53, 0.32)",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": 209,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 0,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.1000000000000000055511151231257827021181583404541015625,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "_title": "element_3",
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "_offset_x_end_tablet": {
+                                    "size": 194,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 6,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4001186c",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "gradient",
+                                "_background_color": "#FDC830",
+                                "_background_color_b": "#F37335",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": 215,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 472,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.1000000000000000055511151231257827021181583404541015625,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "_title": "element_4",
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "motion_fx_mouseTrack_direction": "negative",
+                                "hide_mobile": "hidden-phone",
+                                "_offset_x_end_tablet": {
+                                    "size": 167.5,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 511,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "17350930",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "gradient",
+                                "_background_color": "#FDC830",
+                                "_background_color_b": "#F37335",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": 189,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 159,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.299999999999999988897769753748434595763683319091796875,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "_title": "element_5",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_motion_fx_mouse": "yes",
+                                "motion_fx_mouseTrack_direction": "negative",
+                                "_offset_x_end_tablet": {
+                                    "size": 209,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 265,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "72b2b31f",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "700",
+                                    "right": "700",
+                                    "bottom": "700",
+                                    "left": "700",
+                                    "isLinked": true
+                                },
+                                "motion_fx_mouseTrack_effect": "yes",
+                                "_background_background": "classic",
+                                "_background_color": "#F2F7FD",
+                                "_background_color_b": "rgba(243, 115, 53, 0.32)",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 170,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "1000",
+                                    "right": "1000",
+                                    "bottom": "1000",
+                                    "left": "1000",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "size": -62,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -552,
+                                    "unit": "px"
+                                },
+                                "motion_fx_mouseTrack_speed": {
+                                    "unit": "px",
+                                    "size": 0.200000000000000011102230246251565404236316680908203125,
+                                    "sizes": []
+                                },
+                                "motion_fx_tilt_effect": "yes",
+                                "motion_fx_tilt_speed": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_title": "element_6",
+                                "motion_fx_mouseTrack_direction": "negative",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

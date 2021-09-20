@@ -1,0 +1,15 @@
+.elementor-panel .eight_theme-elementor-icon {
+    color: #fff;
+    background-color: #c62828;
+    background: linear-gradient(155deg, #c62826, #2c478b);
+    padding: 8px;
+    border-radius: 50%;
+    font-size: 21px;
+    margin-top: -4px;
+    display: inline-block;
+    margin-bottom: -5px;
+}
+
+#elementor-panel-page-settings .elementor-control-xstore_advanced_custom_css {
+    display: none;
+}

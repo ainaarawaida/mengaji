@@ -1,0 +1,2 @@
+2021-09-06T14:34:55+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\laragon\www\mengaji\wp-content\plugins\wc-multivendor-marketplace\helpers\class-wcfmmp-store-setup.php on line 1595
+
