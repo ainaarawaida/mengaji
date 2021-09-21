@@ -120,7 +120,8 @@ class Mengaji_Public {
 		 } else{
 			?>
 			<style>
-				#menu-1-3408d89b > li:nth-child(1),#menu-2-3408d89b > li:nth-child(1) {
+				#menu-1-3408d89b > li:nth-child(1),#menu-2-3408d89b > li:nth-child(1)
+				,#menu-1-3408d89b > li:nth-child(4),#menu-2-3408d89b > li:nth-child(4)	{
 				   display:none
 		  
 				 }
@@ -128,6 +129,47 @@ class Mengaji_Public {
 		   <?php
 
 		 }
+	}
+
+
+	public function mengaji_woocommerce_login_form_start(){
+		?>
+
+	<img id="gambarmata" src="<?php echo plugin_dir_url( __FILE__ ) ; ?>images/open.png" alt="open eye naruto" width="100%">
+
+	<script>
+		var currentdir = <?php echo json_encode(plugin_dir_url( __FILE__ )) ; ?> ;
+document.addEventListener("DOMContentLoaded", function() {
+	var specifiedElementuser = document.getElementById('username');
+	var specifiedElement = document.getElementById('password');
+
+//I'm using "click" but it works with any event
+document.addEventListener('click', function(event) {
+  var isClickInside = specifiedElement.contains(event.target);
+  var isClickInsideuser = specifiedElementuser.contains(event.target);
+
+		if (isClickInside) {
+			document.getElementById("gambarmata").src=currentdir+"images/closed.png";
+			
+		}else if(isClickInsideuser){
+			document.getElementById("gambarmata").src=currentdir+"images/baryon.png";
+			
+		}else{
+			document.getElementById("gambarmata").src=currentdir+"images/open.png";
+			
+		}
+	});
+
+
+
+	
+});
+
+
+
+	</script>
+
+		<?php
 	}
 
 
